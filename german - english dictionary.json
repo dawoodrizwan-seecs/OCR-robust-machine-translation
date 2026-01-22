@@ -1,0 +1,5942 @@
+[
+  {
+    "id": 1,
+    "german": "Schleifmittel",
+    "english": "Abrasives"
+  },
+  {
+    "id": 2,
+    "german": "Schleifpapier",
+    "english": "Sandpaper / Abrasive paper"
+  },
+  {
+    "id": 3,
+    "german": "Warenannahme",
+    "english": "Goods receiving / Receiving department"
+  },
+  {
+    "id": 4,
+    "german": "Abnahmeprüfung",
+    "english": "Acceptance test"
+  },
+  {
+    "id": 5,
+    "german": "Annahmegespräch",
+    "english": "Service consultation / Reception interview"
+  },
+  {
+    "id": 6,
+    "german": "(unerlaubte) Zutritt",
+    "english": "(Unauthorized) Access"
+  },
+  {
+    "id": 7,
+    "german": "Zubehör",
+    "english": "Accessories"
+  },
+  {
+    "id": 8,
+    "german": "Auffahrrampe",
+    "english": "Access ramp / Drive-on ramp"
+  },
+  {
+    "id": 9,
+    "german": "Arbeitsunfall",
+    "english": "Occupational accident / Workplace accident"
+  },
+  {
+    "id": 10,
+    "german": "Unfallverhütung(svorschrift)",
+    "english": "Accident prevention (regulation)"
+  },
+  {
+    "id": 11,
+    "german": "Buchhaltung",
+    "english": "Accounting / Bookkeeping"
+  },
+  {
+    "id": 12,
+    "german": "Klimaservicegerät",
+    "english": "A/C service unit"
+  },
+  {
+    "id": 13,
+    "german": "Istmaß",
+    "english": "Actual dimension / Actual size"
+  },
+  {
+    "id": 14,
+    "german": "Adapter",
+    "english": "Adapter"
+  },
+  {
+    "id": 15,
+    "german": "Zusatzgewicht",
+    "english": "Additional weight"
+  },
+  {
+    "id": 16,
+    "german": "Klebstoffsicherung",
+    "english": "Adhesive locking / Threadlocker"
+  },
+  {
+    "id": 17,
+    "german": "Airbag-Werkzeug",
+    "english": "Airbag tool"
+  },
+  {
+    "id": 18,
+    "german": "verstellbare Rollgabel-/Schraubenschlüssel; ugs. der Engländer/Franzose",
+    "english": "Adjustable wrench; colloq. Monkey wrench"
+  },
+  {
+    "id": 19,
+    "german": "Justierer",
+    "english": "Adjuster"
+  },
+  {
+    "id": 20,
+    "german": "Einstelllineal",
+    "english": "Adjusting rule / Straightedge"
+  },
+  {
+    "id": 21,
+    "german": "Einstellwerkzeug",
+    "english": "Adjusting tool"
+  },
+  {
+    "id": 22,
+    "german": "Kundendienstberater/-in",
+    "english": "Service advisor"
+  },
+  {
+    "id": 23,
+    "german": "Land- und Baumaschinen-mechatroniker/-in",
+    "english": "Agricultural and construction machinery mechatronics technician"
+  },
+  {
+    "id": 24,
+    "german": "Reifenfülldruck-Messgerät; ugs. der Reifendruckprüfer",
+    "english": "Tire inflation pressure gauge"
+  },
+  {
+    "id": 25,
+    "german": "Ausrichtwerkzeug",
+    "english": "Alignment tool"
+  },
+  {
+    "id": 26,
+    "german": "Drehwinkelschlüssel",
+    "english": "Angle torque wrench"
+  },
+  {
+    "id": 27,
+    "german": "Winkelbohrmaschine",
+    "english": "Angle drill"
+  },
+  {
+    "id": 28,
+    "german": "Winkelbohr-Adapter",
+    "english": "Angle drilling adapter"
+  },
+  {
+    "id": 29,
+    "german": "Winkelschleifer; ugs. die Flex",
+    "english": "Angle grinder"
+  },
+  {
+    "id": 30,
+    "german": "Glühen",
+    "english": "Annealing"
+  },
+  {
+    "id": 31,
+    "german": "Frostschutzprüfer",
+    "english": "Antifreeze tester"
+  },
+  {
+    "id": 32,
+    "german": "Auszubildende; ugs. der Lehrling",
+    "english": "Apprentice; colloq. Trainee"
+  },
+  {
+    "id": 33,
+    "german": "Gelenkschlüssel",
+    "english": "Articulated wrench / Flex-head wrench"
+  },
+  {
+    "id": 34,
+    "german": "(Motor-)Montagetraverse",
+    "english": "(Engine) Support beam / Mounting crossbeam"
+  },
+  {
+    "id": 35,
+    "german": "(Motor-)Montagekran",
+    "english": "(Engine) Assembly crane / Hoist"
+  },
+  {
+    "id": 36,
+    "german": "Montagewerkzeug",
+    "english": "Assembly tool"
+  },
+  {
+    "id": 37,
+    "german": "Schadensermittlung",
+    "english": "Damage assessment"
+  },
+  {
+    "id": 38,
+    "german": "Kaufmann/-frau für Büromanagement",
+    "english": "Office management assistant"
+  },
+  {
+    "id": 39,
+    "german": "automatisierte externe Defibrillator",
+    "english": "Automated External Defibrillator (AED)"
+  },
+  {
+    "id": 40,
+    "german": "automatische Anlauf",
+    "english": "Automatic start-up"
+  },
+  {
+    "id": 41,
+    "german": "Fahrzeuglackierer/-in; ugs. der/die Lackierer/-in",
+    "english": "Vehicle painter / Automotive refinisher"
+  },
+  {
+    "id": 42,
+    "german": "KFZ-Meister/-in",
+    "english": "Master automotive mechanic / Master craftsman (Automotive)"
+  },
+  {
+    "id": 43,
+    "german": "KFZ-Sachverständige; ugs. der/die KFZ-Gutachter/-in",
+    "english": "Automotive expert / Vehicle appraiser"
+  },
+  {
+    "id": 44,
+    "german": "Automobilbereich",
+    "english": "Automotive sector"
+  },
+  {
+    "id": 45,
+    "german": "Fahrzeuginnenausstatter/-in",
+    "english": "Vehicle interior trimmer / Upholsterer"
+  },
+  {
+    "id": 46,
+    "german": "KFZ-Mechatroniker/-in; ugs. der KFZ-Mechaniker",
+    "english": "Automotive mechatronics technician"
+  },
+  {
+    "id": 47,
+    "german": "Lagerist/Lagerfacharbeiter",
+    "english": "Warehouse clerk / Warehouse specialist"
+  },
+  {
+    "id": 48,
+    "german": "KFZ-Vertragswerkstatt",
+    "english": "Authorized repair shop / Dealership workshop"
+  },
+  {
+    "id": 49,
+    "german": "Ahle",
+    "english": "Awl"
+  },
+  {
+    "id": 50,
+    "german": "(elektronische) Achsvermessung",
+    "english": "(Electronic) Wheel alignment"
+  },
+  {
+    "id": 51,
+    "german": "Achsmanschetten-Zange",
+    "english": "Axle boot pliers / CV boot pliers"
+  },
+  {
+    "id": 52,
+    "german": "Unterstellbock",
+    "english": "Jack stand / Axle stand"
+  },
+  {
+    "id": 53,
+    "german": "Kugelkopf-Ratsche",
+    "english": "Ball head ratchet"
+  },
+  {
+    "id": 54,
+    "german": "Kugelgelenk",
+    "english": "Ball joint"
+  },
+  {
+    "id": 55,
+    "german": "(Universal-)Kugelgelenk-Abzieher",
+    "english": "(Universal) Ball joint puller/separator"
+  },
+  {
+    "id": 56,
+    "german": "Kugelhammer",
+    "english": "Ball-peen hammer"
+  },
+  {
+    "id": 57,
+    "german": "Wundverband; ugs. der Verband",
+    "english": "Bandage / Dressing"
+  },
+  {
+    "id": 58,
+    "german": "Bremsbandkolbenwerkzeug",
+    "english": "Brake band piston tool"
+  },
+  {
+    "id": 59,
+    "german": "Zutrittsverbot",
+    "english": "No entry / Access prohibited"
+  },
+  {
+    "id": 60,
+    "german": "Fass",
+    "english": "Barrel / Drum"
+  },
+  {
+    "id": 61,
+    "german": "Fasspumpe",
+    "english": "Barrel pump / Drum pump"
+  },
+  {
+    "id": 62,
+    "german": "Batterieladegerät",
+    "english": "Battery charger"
+  },
+  {
+    "id": 63,
+    "german": "Batterieladestation",
+    "english": "Battery charging station"
+  },
+  {
+    "id": 64,
+    "german": "Batteriesäureprüfer",
+    "english": "Battery hydrometer / Acid tester"
+  },
+  {
+    "id": 65,
+    "german": "Starthilfekabel",
+    "english": "Jumper cables / Booster cables"
+  },
+  {
+    "id": 66,
+    "german": "(Digital-)Batterieprüfgerät; ugs. der Batterietester",
+    "english": "(Digital) Battery tester"
+  },
+  {
+    "id": 67,
+    "german": "Bördelgerät",
+    "english": "Flaring tool"
+  },
+  {
+    "id": 68,
+    "german": "Bandschleifer",
+    "english": "Belt sander"
+  },
+  {
+    "id": 69,
+    "german": "Bankschleifmaschine; ugs. der Schleifbock",
+    "english": "Bench grinder"
+  },
+  {
+    "id": 70,
+    "german": "Handhebelschere",
+    "english": "Lever shears / Bench shears"
+  },
+  {
+    "id": 71,
+    "german": "Biegekraft",
+    "english": "Bending force"
+  },
+  {
+    "id": 72,
+    "german": "Zwischenhebelfeder-Werkzeug",
+    "english": "Intermediate lever spring tool"
+  },
+  {
+    "id": 73,
+    "german": "Absetzzange",
+    "english": "Joggling pliers / Flanging pliers"
+  },
+  {
+    "id": 74,
+    "german": "Zweiradmechatroniker/-in",
+    "english": "Bicycle/Motorcycle mechatronics technician"
+  },
+  {
+    "id": 75,
+    "german": "Rechnung",
+    "english": "Invoice / Bill"
+  },
+  {
+    "id": 76,
+    "german": "Abfallbehälter; ugs. der Mülleimer",
+    "english": "Waste bin / Trash can"
+  },
+  {
+    "id": 77,
+    "german": "Biogefährdung",
+    "english": "Biohazard"
+  },
+  {
+    "id": 78,
+    "german": "Bit-Einsatz",
+    "english": "Bit insert / Bit socket"
+  },
+  {
+    "id": 79,
+    "german": "(magnetische) Bithalter",
+    "english": "(Magnetic) Bit holder"
+  },
+  {
+    "id": 80,
+    "german": "Bit-Knarre",
+    "english": "Bit ratchet"
+  },
+  {
+    "id": 81,
+    "german": "Entlüftungsgerät",
+    "english": "Bleeding unit / Bleeder"
+  },
+  {
+    "id": 82,
+    "german": "Bremsenentlüfterschlüssel",
+    "english": "Brake bleeding wrench"
+  },
+  {
+    "id": 83,
+    "german": "(Standard-/Dicht-/Spreiz-) Blindniet",
+    "english": "(Standard/Sealed/Peel) Blind rivet"
+  },
+  {
+    "id": 84,
+    "german": "Flaschenzug",
+    "english": "Block and tackle / Pulley block"
+  },
+  {
+    "id": 85,
+    "german": "Arretierbolzen; ugs. der Blockierstift",
+    "english": "Locking bolt / Locking pin"
+  },
+  {
+    "id": 86,
+    "german": "Ausblaspistole",
+    "english": "Blow gun / Air blow gun"
+  },
+  {
+    "id": 87,
+    "german": "Schaft",
+    "english": "Shank / Shaft"
+  },
+  {
+    "id": 88,
+    "german": "Karosserie- und Fahrzeugbaumechaniker/-in; ugs. der/die Karosseriebauer/-in",
+    "english": "Mechanic for bodywork and vehicle construction / Bodywork mechanic"
+  },
+  {
+    "id": 89,
+    "german": "Karosserie(-Reparatur)werkstatt; ugs. die Klempnerei",
+    "english": "Body shop / Collision repair shop"
+  },
+  {
+    "id": 90,
+    "german": "Thermoweste",
+    "english": "Thermal vest / Body warmer"
+  },
+  {
+    "id": 91,
+    "german": "Karosseriekreissäge",
+    "english": "Body saw"
+  },
+  {
+    "id": 92,
+    "german": "Schlaghammer",
+    "english": "Slide hammer / Body slide hammer"
+  },
+  {
+    "id": 93,
+    "german": "Karosseriewerkzeug",
+    "english": "Bodywork tool"
+  },
+  {
+    "id": 94,
+    "german": "Arbeitsoverall",
+    "english": "Boilersuit / Coveralls"
+  },
+  {
+    "id": 95,
+    "german": "Motorhaubenleuchte",
+    "english": "Bonnet lamp / Under-hood light"
+  },
+  {
+    "id": 96,
+    "german": "Starthilfegerät",
+    "english": "Jump starter / Booster pack"
+  },
+  {
+    "id": 97,
+    "german": "Altglascontainer",
+    "english": "Glass recycling container / Bottle bank"
+  },
+  {
+    "id": 98,
+    "german": "Fertigschneider",
+    "english": "Bottoming tap / Plug tap"
+  },
+  {
+    "id": 99,
+    "german": "Randschichthärten",
+    "english": "Surface hardening / Case hardening"
+  },
+  {
+    "id": 100,
+    "german": "Bowdenzugöler",
+    "english": "Cable oiler / Bowden cable oiler"
+  },
+  {
+    "id": 101,
+    "german": "Steckschlüssel",
+    "english": "Socket wrench"
+  },
+  {
+    "id": 102,
+    "german": "Bremsenentlüfter(schlüssel)",
+    "english": "Brake bleeding wrench"
+  },
+  {
+    "id": 103,
+    "german": "Bremsenentlüftungsbehälter",
+    "english": "Brake bleeding container"
+  },
+  {
+    "id": 104,
+    "german": "Bremsenentlüftungsgerät",
+    "english": "Brake bleeder unit"
+  },
+  {
+    "id": 105,
+    "german": "Bremsseilzange",
+    "english": "Brake cable pliers"
+  },
+  {
+    "id": 106,
+    "german": "Bremssattelbürste",
+    "english": "Brake caliper brush"
+  },
+  {
+    "id": 107,
+    "german": "Bremssattelfeile",
+    "english": "Brake caliper file"
+  },
+  {
+    "id": 108,
+    "german": "Bremsenprüfung",
+    "english": "Brake test"
+  },
+  {
+    "id": 109,
+    "german": "Bremsscheibenmessschieber",
+    "english": "Brake disc caliper / Brake disc gauge"
+  },
+  {
+    "id": 110,
+    "german": "Bremstrommelmeßlehre",
+    "english": "Brake drum gauge"
+  },
+  {
+    "id": 111,
+    "german": "(alte) Bremsflüssigkeit",
+    "english": "(Used/Old) Brake fluid"
+  },
+  {
+    "id": 112,
+    "german": "Bremsflüssigkeitsprüfer; ugs. der Bremsflüssigkeitstester",
+    "english": "Brake fluid tester"
+  },
+  {
+    "id": 113,
+    "german": "Bremsleitungsschaber",
+    "english": "Brake pipe scraper"
+  },
+  {
+    "id": 114,
+    "german": "Bremskolbenrücksteller",
+    "english": "Brake piston wind-back tool"
+  },
+  {
+    "id": 115,
+    "german": "Bremskolbenrückstellwerkzeug",
+    "english": "Brake piston retraction tool"
+  },
+  {
+    "id": 116,
+    "german": "Bremsfederzange",
+    "english": "Brake spring pliers"
+  },
+  {
+    "id": 117,
+    "german": "Rollenbremsprüfstand; ugs. der Bremsenprüfstand",
+    "english": "Roller brake tester / Brake test bench"
+  },
+  {
+    "id": 118,
+    "german": "Bremsenentlüftungsadapter",
+    "english": "Brake bleeding adapter"
+  },
+  {
+    "id": 119,
+    "german": "Hartlöten",
+    "english": "Brazing"
+  },
+  {
+    "id": 120,
+    "german": "Pinsel/Bürste",
+    "english": "Brush"
+  },
+  {
+    "id": 121,
+    "german": "Pausenraum",
+    "english": "Break room / Staff room"
+  },
+  {
+    "id": 122,
+    "german": "(Gummi-)Ausbeulhammer",
+    "english": "(Rubber) Bumping hammer / Dent hammer"
+  },
+  {
+    "id": 123,
+    "german": "Ausbeul-Pad",
+    "english": "Dent removal pad"
+  },
+  {
+    "id": 124,
+    "german": "Ausbeul-Satz",
+    "english": "Dent repair kit / Body repair kit"
+  },
+  {
+    "id": 125,
+    "german": "Ausbeulwerkzeug",
+    "english": "Dent removal tool"
+  },
+  {
+    "id": 126,
+    "german": "Kabelschuh",
+    "english": "Cable lug / Cable terminal"
+  },
+  {
+    "id": 127,
+    "german": "Kabelbinder",
+    "english": "Cable tie / Zip tie"
+  },
+  {
+    "id": 128,
+    "german": "Taster/Messtaster",
+    "english": "Caliper / Feeler / Probe"
+  },
+  {
+    "id": 129,
+    "german": "Sturz-Einstellwerkzeug",
+    "english": "Camber adjustment tool"
+  },
+  {
+    "id": 130,
+    "german": "Nockenwellenarretierung",
+    "english": "Camshaft locking tool"
+  },
+  {
+    "id": 131,
+    "german": "Hutmutter",
+    "english": "Cap nut / Acorn nut"
+  },
+  {
+    "id": 132,
+    "german": "(Ölfilter-)Kappenschlüssel",
+    "english": "(Oil filter) Cap wrench"
+  },
+  {
+    "id": 133,
+    "german": "Kapillarwirkung",
+    "english": "Capillary action"
+  },
+  {
+    "id": 134,
+    "german": "Autohandel",
+    "english": "Car dealership / Car trade"
+  },
+  {
+    "id": 135,
+    "german": "Hebebühne",
+    "english": "Vehicle lift / Hoist"
+  },
+  {
+    "id": 136,
+    "german": "KFZ-Meisterbetrieb",
+    "english": "Master automotive repair shop"
+  },
+  {
+    "id": 137,
+    "german": "Kartuschenpresse/Kartuschenpistole",
+    "english": "Cartridge gun / Caulking gun"
+  },
+  {
+    "id": 138,
+    "german": "Waschanlage",
+    "english": "Car wash"
+  },
+  {
+    "id": 139,
+    "german": "(freie/offene) KFZ-Werkstatt; ugs. die freie Werkstatt",
+    "english": "Independent workshop / Independent garage"
+  },
+  {
+    "id": 140,
+    "german": "KFZ-Werkstattkette",
+    "english": "Repair shop chain"
+  },
+  {
+    "id": 141,
+    "german": "Brandfall",
+    "english": "Case of fire"
+  },
+  {
+    "id": 142,
+    "german": "Kronenmutter (mit Splint)",
+    "english": "Castellated nut (with cotter pin)"
+  },
+  {
+    "id": 143,
+    "german": "Auffangbecken",
+    "english": "Catch basin / Drip pan"
+  },
+  {
+    "id": 144,
+    "german": "Kartuschenpresse",
+    "english": "Caulking gun"
+  },
+  {
+    "id": 145,
+    "german": "Zentrierwerkzeug; ugs. der Zentrierer",
+    "english": "Centering tool"
+  },
+  {
+    "id": 146,
+    "german": "Körner",
+    "english": "Center punch"
+  },
+  {
+    "id": 147,
+    "german": "Bescheinigung/Zertifikat/Zertifizierung",
+    "english": "Certificate / Certification"
+  },
+  {
+    "id": 148,
+    "german": "Kettentrenner",
+    "english": "Chain breaker / Chain separator"
+  },
+  {
+    "id": 149,
+    "german": "(Elektro-)Kettenzug",
+    "english": "(Electric) Chain hoist"
+  },
+  {
+    "id": 150,
+    "german": "Kennzeichnungsschild für Anschlagketten",
+    "english": "Chain ID tag"
+  },
+  {
+    "id": 151,
+    "german": "Umkleideraum",
+    "english": "Changing room / Locker room"
+  },
+  {
+    "id": 152,
+    "german": "Ladegerät",
+    "english": "Charger"
+  },
+  {
+    "id": 153,
+    "german": "Kassenbereich",
+    "english": "Checkout area / Cashier"
+  },
+  {
+    "id": 154,
+    "german": "Meißelhammer",
+    "english": "Chipping hammer"
+  },
+  {
+    "id": 155,
+    "german": "Meißel",
+    "english": "Chisel"
+  },
+  {
+    "id": 156,
+    "german": "Seeger-Sicherungsring; ugs. der Sprengring",
+    "english": "Circlip / Retaining ring / Snap ring"
+  },
+  {
+    "id": 157,
+    "german": "Seeger-/Sicherungsringzange innen/außen; ugs. die Sprengringzange",
+    "english": "Circlip pliers (internal/external)"
+  },
+  {
+    "id": 158,
+    "german": "Leitungsprüfer",
+    "english": "Circuit tester / Continuity tester"
+  },
+  {
+    "id": 159,
+    "german": "Spannwerkzeug",
+    "english": "Clamping tool"
+  },
+  {
+    "id": 160,
+    "german": "Zangenmultimeter",
+    "english": "Clamp meter"
+  },
+  {
+    "id": 161,
+    "german": "Klemmschlüssel",
+    "english": "Clamping wrench"
+  },
+  {
+    "id": 162,
+    "german": "Krallengreifer",
+    "english": "Claw pick-up tool"
+  },
+  {
+    "id": 163,
+    "german": "Reinigungsbürste",
+    "english": "Cleaning brush"
+  },
+  {
+    "id": 164,
+    "german": "Reinigungspistole",
+    "english": "Cleaning gun"
+  },
+  {
+    "id": 165,
+    "german": "Putztuch; ugs. der Schmutzlappen",
+    "english": "Cleaning rag / Cloth"
+  },
+  {
+    "id": 166,
+    "german": "Clip-Entferner",
+    "english": "Clip remover"
+  },
+  {
+    "id": 167,
+    "german": "Uhrzeigersinn",
+    "english": "Clockwise"
+  },
+  {
+    "id": 168,
+    "german": "Fäustel",
+    "english": "Club hammer / Lump hammer"
+  },
+  {
+    "id": 169,
+    "german": "Grobgewinde",
+    "english": "Coarse thread"
+  },
+  {
+    "id": 170,
+    "german": "Sammelbehälter",
+    "english": "Collection container"
+  },
+  {
+    "id": 171,
+    "german": "Auffangbehälter",
+    "english": "Collection tank / Recovery tank"
+  },
+  {
+    "id": 172,
+    "german": "Auffangschale",
+    "english": "Collection tray / Drip tray"
+  },
+  {
+    "id": 173,
+    "german": "Auffangwanne",
+    "english": "Sump tray / Spill pallet"
+  },
+  {
+    "id": 174,
+    "german": "(Elektronik-)Kombizange",
+    "english": "(Electronic) Combination pliers"
+  },
+  {
+    "id": 175,
+    "german": "Kombinationszeichen",
+    "english": "Combined sign (safety)"
+  },
+  {
+    "id": 176,
+    "german": "Ring-Gabelschlüssel; ugs. der Ring-Maulschlüssel",
+    "english": "Combination wrench / Spanner"
+  },
+  {
+    "id": 177,
+    "german": "Ablagefach",
+    "english": "Storage compartment / Tray"
+  },
+  {
+    "id": 178,
+    "german": "Reklamation",
+    "english": "Complaint / Claim"
+  },
+  {
+    "id": 179,
+    "german": "Druckluft",
+    "english": "Compressed air"
+  },
+  {
+    "id": 180,
+    "german": "Druckluft-Adapter",
+    "english": "Compressed air adapter"
+  },
+  {
+    "id": 181,
+    "german": "Kompressionsdruckdiagramm",
+    "english": "Compression test chart"
+  },
+  {
+    "id": 182,
+    "german": "(digitale) Kompressionsdruckprüfgerät; ugs. der Kompressionsdruckschreiber",
+    "english": "(Digital) Compression tester"
+  },
+  {
+    "id": 183,
+    "german": "Kompressionsdruckschreiber",
+    "english": "Compression recorder"
+  },
+  {
+    "id": 184,
+    "german": "Verbindungsteil",
+    "english": "Connector / Connecting part"
+  },
+  {
+    "id": 185,
+    "german": "Berater/-in",
+    "english": "Consultant / Advisor"
+  },
+  {
+    "id": 186,
+    "german": "Kontaktkleber",
+    "english": "Contact adhesive"
+  },
+  {
+    "id": 187,
+    "german": "ansteckende Stoff",
+    "english": "Infectious substance"
+  },
+  {
+    "id": 188,
+    "german": "Kontrastmittel",
+    "english": "Contrast medium / Dye (for leak detection)"
+  },
+  {
+    "id": 189,
+    "german": "(alte) Motorkühlflüssigkeit; ugs. das Kühlwasser",
+    "english": "(Used) Engine coolant"
+  },
+  {
+    "id": 190,
+    "german": "Kühlmitteltester",
+    "english": "Coolant tester"
+  },
+  {
+    "id": 191,
+    "german": "Kupferhammer",
+    "english": "Copper hammer"
+  },
+  {
+    "id": 192,
+    "german": "Kupferdichtring",
+    "english": "Copper sealing ring / Copper washer"
+  },
+  {
+    "id": 193,
+    "german": "ätzende Stoff",
+    "english": "Corrosive substance"
+  },
+  {
+    "id": 194,
+    "german": "Kundenauftrag",
+    "english": "Customer order / Repair order"
+  },
+  {
+    "id": 195,
+    "german": "Splint",
+    "english": "Cotter pin"
+  },
+  {
+    "id": 196,
+    "german": "Gegenhalterscschlüssel",
+    "english": "Counter-holding wrench"
+  },
+  {
+    "id": 197,
+    "german": "gegen den Uhrzeigersinn",
+    "english": "Counter-clockwise"
+  },
+  {
+    "id": 198,
+    "german": "Kegelsenker",
+    "english": "Countersink"
+  },
+  {
+    "id": 199,
+    "german": "Mechaniker/-in/Handwerker/-in",
+    "english": "Mechanic / Craftsperson"
+  },
+  {
+    "id": 200,
+    "german": "Kurbelwellendrehwerkzeug",
+    "english": "Crankshaft turning tool"
+  },
+  {
+    "id": 201,
+    "german": "(Werkstatt-)Rollbrett",
+    "english": "Creeper / Mechanic's creeper"
+  },
+  {
+    "id": 202,
+    "german": "(untere/obere) Crimpbacke",
+    "english": "(Lower/Upper) Crimping jaw"
+  },
+  {
+    "id": 203,
+    "german": "Bördelzange",
+    "english": "Crimping pliers / Flanging pliers"
+  },
+  {
+    "id": 204,
+    "german": "Crimpzange; ugs. die Presszange",
+    "english": "Crimping pliers / Crimper"
+  },
+  {
+    "id": 205,
+    "german": "Krokodilklemme",
+    "english": "Crocodile clip / Alligator clip"
+  },
+  {
+    "id": 206,
+    "german": "Übergang",
+    "english": "Transition / Crossover"
+  },
+  {
+    "id": 207,
+    "german": "Schlosserhammer",
+    "english": "Machinist's hammer / Fitter's hammer"
+  },
+  {
+    "id": 208,
+    "german": "Hahnenfußschlüssel",
+    "english": "Crowfoot wrench"
+  },
+  {
+    "id": 209,
+    "german": "Gegenhaltewerkzeug",
+    "english": "Counter-holder tool"
+  },
+  {
+    "id": 210,
+    "german": "Topfbürste",
+    "english": "Cup brush"
+  },
+  {
+    "id": 211,
+    "german": "Schleiftopf",
+    "english": "Cup grinding wheel"
+  },
+  {
+    "id": 212,
+    "german": "Stromstärke-Zangenmessgerät; die Strommesszange",
+    "english": "Current clamp meter"
+  },
+  {
+    "id": 213,
+    "german": "Kunde/Kundin",
+    "english": "Customer"
+  },
+  {
+    "id": 214,
+    "german": "Kundengespräch",
+    "english": "Customer consultation"
+  },
+  {
+    "id": 215,
+    "german": "Kundenanfrage",
+    "english": "Customer inquiry"
+  },
+  {
+    "id": 216,
+    "german": "Wartebereich",
+    "english": "Waiting area"
+  },
+  {
+    "id": 217,
+    "german": "Kundenorientierung",
+    "english": "Customer orientation / Customer focus"
+  },
+  {
+    "id": 218,
+    "german": "Kundendienstberater/-in",
+    "english": "Service advisor"
+  },
+  {
+    "id": 219,
+    "german": "Kundentoilette",
+    "english": "Customer restroom"
+  },
+  {
+    "id": 220,
+    "german": "Schneidmesser",
+    "english": "Cutting blade / Cutter"
+  },
+  {
+    "id": 221,
+    "german": "Schneide",
+    "english": "Cutting edge"
+  },
+  {
+    "id": 222,
+    "german": "Trennmesser",
+    "english": "Separating knife"
+  },
+  {
+    "id": 223,
+    "german": "(Sauerstoff-/Acetylen-)Gasflasche",
+    "english": "(Oxygen/Acetylene) Gas cylinder"
+  },
+  {
+    "id": 224,
+    "german": "Zylinder(kopf)schraube",
+    "english": "Cylinder (head) screw / Bolt"
+  },
+  {
+    "id": 225,
+    "german": "Zylinderkopf-Stehbolzenwerkzeug",
+    "english": "Cylinder head stud tool"
+  },
+  {
+    "id": 226,
+    "german": "Schaden(s)kalkulation",
+    "english": "Damage calculation / Estimation"
+  },
+  {
+    "id": 227,
+    "german": "Gefahr",
+    "english": "Danger / Hazard"
+  },
+  {
+    "id": 228,
+    "german": "Absturzgefahr",
+    "english": "Risk of falling"
+  },
+  {
+    "id": 229,
+    "german": "Rutschgefahr",
+    "english": "Risk of slipping"
+  },
+  {
+    "id": 230,
+    "german": "gefährliche Stoff",
+    "english": "Hazardous substance"
+  },
+  {
+    "id": 231,
+    "german": "Tagschicht",
+    "english": "Day shift"
+  },
+  {
+    "id": 232,
+    "german": "Totpunkt-Finder",
+    "english": "Top Dead Center (TDC) finder"
+  },
+  {
+    "id": 233,
+    "german": "Händler/-in",
+    "english": "Dealer / Trader"
+  },
+  {
+    "id": 234,
+    "german": "Betriebsleiter/-in",
+    "english": "Operations manager / Workshop manager"
+  },
+  {
+    "id": 235,
+    "german": "Tiefenmessschraube",
+    "english": "Depth micrometer"
+  },
+  {
+    "id": 236,
+    "german": "Fahrzeugübergabe",
+    "english": "Vehicle handover / Delivery"
+  },
+  {
+    "id": 237,
+    "german": "Ausbeulwerkzeug",
+    "english": "Dent removal tool"
+  },
+  {
+    "id": 238,
+    "german": "Diagnose",
+    "english": "Diagnosis / Diagnostics"
+  },
+  {
+    "id": 239,
+    "german": "Diagnoseschnittstelle",
+    "english": "Diagnostic interface / OBD port"
+  },
+  {
+    "id": 240,
+    "german": "Diagnosesteckdose",
+    "english": "Diagnostic socket / Connector"
+  },
+  {
+    "id": 241,
+    "german": "(mobile) Diagnosetester; ugs. der Motortester",
+    "english": "(Mobile) Diagnostic tester / Scan tool"
+  },
+  {
+    "id": 242,
+    "german": "Diagnosearbeit",
+    "english": "Diagnostic work"
+  },
+  {
+    "id": 243,
+    "german": "Seitenschneider",
+    "english": "Diagonal cutters / Side cutters"
+  },
+  {
+    "id": 244,
+    "german": "Ziffernblatt/Skala",
+    "english": "Dial / Scale"
+  },
+  {
+    "id": 245,
+    "german": "(Digital-)Messuhr",
+    "english": "(Digital) Dial indicator / Dial gauge"
+  },
+  {
+    "id": 246,
+    "german": "Schaltplan",
+    "english": "Wiring diagram / Circuit diagram"
+  },
+  {
+    "id": 247,
+    "german": "Schneideisen",
+    "english": "Die (Thread cutting)"
+  },
+  {
+    "id": 248,
+    "german": "Diodenprüflampe",
+    "english": "Diode test lamp"
+  },
+  {
+    "id": 249,
+    "german": "Direktannahme",
+    "english": "Direct reception / Service lane"
+  },
+  {
+    "id": 250,
+    "german": "(Digital-)Bremsscheiben-Messschieber",
+    "english": "(Digital) Brake disc caliper"
+  },
+  {
+    "id": 251,
+    "german": "Scheibendiagramm",
+    "english": "Disc chart / Tachograph disc"
+  },
+  {
+    "id": 252,
+    "german": "Demontageanalyse",
+    "english": "Disassembly analysis"
+  },
+  {
+    "id": 253,
+    "german": "Demontageklaue",
+    "english": "Dismantling claw"
+  },
+  {
+    "id": 254,
+    "german": "Demontagewerkzeug",
+    "english": "Dismantling tool"
+  },
+  {
+    "id": 255,
+    "german": "Distanzstück",
+    "english": "Spacer / Distance piece"
+  },
+  {
+    "id": 256,
+    "german": "Arzt",
+    "english": "Doctor / Physician"
+  },
+  {
+    "id": 257,
+    "german": "Krankschreibung; ugs. der Krankenschein",
+    "english": "Sick note / Certificate of incapacity for work"
+  },
+  {
+    "id": 258,
+    "german": "Fußraumschoner",
+    "english": "Floor mat protector"
+  },
+  {
+    "id": 259,
+    "german": "Doppelkupplungswerkzeug",
+    "english": "Double clutch tool"
+  },
+  {
+    "id": 260,
+    "german": "Doppelhaken",
+    "english": "Double hook"
+  },
+  {
+    "id": 261,
+    "german": "Niederdrücker",
+    "english": "Depressor / Hold-down tool"
+  },
+  {
+    "id": 262,
+    "german": "(Öl-)Ablassschraube",
+    "english": "(Oil) Drain plug"
+  },
+  {
+    "id": 263,
+    "german": "Ziehhaken",
+    "english": "Pull hook / Draw hook"
+  },
+  {
+    "id": 264,
+    "german": "Durchtreiber; ugs. der Dorn",
+    "english": "Drift punch / Drift"
+  },
+  {
+    "id": 265,
+    "german": "(gerade/konische) Durchschläger",
+    "english": "(Straight/Tapered) Punch"
+  },
+  {
+    "id": 266,
+    "german": "(Akku-)Bohrschrauber/(Akku-)Bohrmaschine; ugs. der Akkuschrauber",
+    "english": "(Cordless) Drill driver / Power drill"
+  },
+  {
+    "id": 267,
+    "german": "(Spiral-)Bohrer",
+    "english": "(Twist) Drill bit"
+  },
+  {
+    "id": 268,
+    "german": "Säulenbohrmaschine",
+    "english": "Pillar drill / Drill press"
+  },
+  {
+    "id": 269,
+    "german": "Trinkwasser",
+    "english": "Drinking water"
+  },
+  {
+    "id": 270,
+    "german": "Trockensauger",
+    "english": "Dry vacuum cleaner"
+  },
+  {
+    "id": 271,
+    "german": "Abfallcontainer; ugs. die Mülltonne",
+    "english": "Waste container / Dumpster"
+  },
+  {
+    "id": 272,
+    "german": "(Werkzeug-)Standzeit",
+    "english": "(Tool) Service life / Durability"
+  },
+  {
+    "id": 273,
+    "german": "Gehörschutzstöpsel; ugs. das Ohropax",
+    "english": "Earplugs"
+  },
+  {
+    "id": 274,
+    "german": "Gehörschutz/Gehörschützer; ugs. der Ohrenschützer",
+    "english": "Ear defenders / Hearing protection"
+  },
+  {
+    "id": 275,
+    "german": "Erdung",
+    "english": "Earthing / Grounding"
+  },
+  {
+    "id": 276,
+    "german": "Kantenschutz bei Ketten",
+    "english": "Edge protection for chains"
+  },
+  {
+    "id": 277,
+    "german": "Kantenschutz bei Hebebändern",
+    "english": "Edge protection for lifting straps"
+  },
+  {
+    "id": 278,
+    "german": "Kantenschutz bei Drahtseilen",
+    "english": "Edge protection for wire ropes"
+  },
+  {
+    "id": 279,
+    "german": "Kantenschutz-Satz",
+    "english": "Edge protection set"
+  },
+  {
+    "id": 280,
+    "german": "Schnitt-/Spanwinkel",
+    "english": "Cutting angle / Rake angle"
+  },
+  {
+    "id": 281,
+    "german": "Ausdrücker",
+    "english": "Ejector / Pusher"
+  },
+  {
+    "id": 282,
+    "german": "elektrische/elektrotechnische Prüfwerkstatt",
+    "english": "Electrical testing workshop"
+  },
+  {
+    "id": 283,
+    "german": "elektrische Handbohrmaschine",
+    "english": "Electric hand drill"
+  },
+  {
+    "id": 284,
+    "german": "Elektriker/-in",
+    "english": "Electrician"
+  },
+  {
+    "id": 285,
+    "german": "Elektrolötkolben",
+    "english": "Electric soldering iron"
+  },
+  {
+    "id": 286,
+    "german": "elektrische Spannung",
+    "english": "Electrical voltage"
+  },
+  {
+    "id": 287,
+    "german": "Sammelstelle",
+    "english": "Assembly point / Collection point"
+  },
+  {
+    "id": 288,
+    "german": "Notruf",
+    "english": "Emergency call"
+  },
+  {
+    "id": 289,
+    "german": "Notausgang",
+    "english": "Emergency exit"
+  },
+  {
+    "id": 290,
+    "german": "Rettungsausstieg",
+    "english": "Emergency escape hatch/exit"
+  },
+  {
+    "id": 291,
+    "german": "Notpumpe",
+    "english": "Emergency pump"
+  },
+  {
+    "id": 292,
+    "german": "Notlaufprogramm",
+    "english": "Limp-home mode / Emergency mode"
+  },
+  {
+    "id": 293,
+    "german": "Notdusche",
+    "english": "Emergency shower"
+  },
+  {
+    "id": 294,
+    "german": "Not-Aus-Taster",
+    "english": "Emergency stop button"
+  },
+  {
+    "id": 295,
+    "german": "Notruftelefon",
+    "english": "Emergency telephone"
+  },
+  {
+    "id": 296,
+    "german": "Notausstieg mit Fluchtleiter",
+    "english": "Emergency exit with escape ladder"
+  },
+  {
+    "id": 297,
+    "german": "Schleifpapier",
+    "english": "Emery paper / Sandpaper"
+  },
+  {
+    "id": 298,
+    "german": "Emissionsanalysegerät; ugs. der Abgastester",
+    "english": "Emission analyzer / Exhaust gas tester"
+  },
+  {
+    "id": 299,
+    "german": "Beschäftigte/Arbeitnehmer/-in",
+    "english": "Employee / Worker"
+  },
+  {
+    "id": 300,
+    "german": "Vornschneider",
+    "english": "End cutting pliers / End nippers"
+  },
+  {
+    "id": 301,
+    "german": "(anerkannte) Annahmestelle für Altfahrzeuge",
+    "english": "(Recognized) Collection point for end-of-life vehicles"
+  },
+  {
+    "id": 302,
+    "german": "(anerkannte) Altfahrzeug-Demontagebetrieb; ugs. der Autoverwerter",
+    "english": "(Recognized) Car dismantling facility / Auto recycler"
+  },
+  {
+    "id": 303,
+    "german": "Altfahrzeugverordnung",
+    "english": "End-of-Life Vehicles Ordinance"
+  },
+  {
+    "id": 304,
+    "german": "Endoskop(-Farb)kamera",
+    "english": "Endoscope (color) camera / Borescope"
+  },
+  {
+    "id": 305,
+    "german": "Motorkennbuchstabe",
+    "english": "Engine code"
+  },
+  {
+    "id": 306,
+    "german": "Motorständer",
+    "english": "Engine stand"
+  },
+  {
+    "id": 307,
+    "german": "Motortester",
+    "english": "Engine tester / Engine analyzer"
+  },
+  {
+    "id": 308,
+    "german": "Ingenieur/-in",
+    "english": "Engineer"
+  },
+  {
+    "id": 309,
+    "german": "Schlosserhammer",
+    "english": "Fitter's hammer"
+  },
+  {
+    "id": 310,
+    "german": "Einfahrt",
+    "english": "Entrance / Driveway"
+  },
+  {
+    "id": 311,
+    "german": "junge Facharbeiter/-in",
+    "english": "Junior skilled worker"
+  },
+  {
+    "id": 312,
+    "german": "Umweltverträglichkeit",
+    "english": "Environmental compatibility"
+  },
+  {
+    "id": 313,
+    "german": "Umweltschutz",
+    "english": "Environmental protection"
+  },
+  {
+    "id": 314,
+    "german": "Rettungsweg",
+    "english": "Escape route"
+  },
+  {
+    "id": 315,
+    "german": "Flucht- und Rettungsplan",
+    "english": "Escape and rescue plan"
+  },
+  {
+    "id": 316,
+    "german": "Absauger",
+    "english": "Extractor / Exhaust unit"
+  },
+  {
+    "id": 317,
+    "german": "Spätschicht",
+    "english": "Late shift"
+  },
+  {
+    "id": 318,
+    "german": "Abgasuntersuchung",
+    "english": "Exhaust emission test"
+  },
+  {
+    "id": 319,
+    "german": "Abgasschlauch",
+    "english": "Exhaust hose"
+  },
+  {
+    "id": 320,
+    "german": "Ausfahrt",
+    "english": "Exit"
+  },
+  {
+    "id": 321,
+    "german": "Dehnschraube",
+    "english": "Stretch bolt / Torque-to-yield bolt"
+  },
+  {
+    "id": 322,
+    "german": "Explosionsgefahr",
+    "english": "Risk of explosion"
+  },
+  {
+    "id": 323,
+    "german": "explosionsgefährliche/explosive Stoffe",
+    "english": "Explosive substances"
+  },
+  {
+    "id": 324,
+    "german": "Verlängerung",
+    "english": "Extension / Extension bar"
+  },
+  {
+    "id": 325,
+    "german": "Verlängerungskabel",
+    "english": "Extension cord"
+  },
+  {
+    "id": 326,
+    "german": "Außengewinde",
+    "english": "External thread"
+  },
+  {
+    "id": 327,
+    "german": "Auszieh-/Ausdrück-/Abziehwerkzeug",
+    "english": "Extraction/Pulling tool"
+  },
+  {
+    "id": 328,
+    "german": "Auszieher/Ausdrücker/Abzieher",
+    "english": "Extractor / Puller"
+  },
+  {
+    "id": 329,
+    "german": "Ausziehklaue",
+    "english": "Extractor claw"
+  },
+  {
+    "id": 330,
+    "german": "hochentzündliche Stoff",
+    "english": "Highly flammable substance"
+  },
+  {
+    "id": 331,
+    "german": "Augendusche",
+    "english": "Eye wash / Eye shower"
+  },
+  {
+    "id": 332,
+    "german": "(lichtundurchlässige) Augenschutz",
+    "english": "(Opaque) Eye protection"
+  },
+  {
+    "id": 333,
+    "german": "Augenspülflasche",
+    "english": "Eye wash bottle"
+  },
+  {
+    "id": 334,
+    "german": "Augenspülstation/-einrichtung",
+    "english": "Eye wash station"
+  },
+  {
+    "id": 335,
+    "german": "Gesichtsschutz",
+    "english": "Face shield / Face protection"
+  },
+  {
+    "id": 336,
+    "german": "Seitenschleifen",
+    "english": "Side grinding"
+  },
+  {
+    "id": 337,
+    "german": "Einrichtung",
+    "english": "Facility / Equipment / Setup"
+  },
+  {
+    "id": 338,
+    "german": "Fehler/Mangel",
+    "english": "Defect / Fault"
+  },
+  {
+    "id": 339,
+    "german": "Befestigungsclip",
+    "english": "Fastening clip / Retaining clip"
+  },
+  {
+    "id": 340,
+    "german": "Fehler",
+    "english": "Fault / Error"
+  },
+  {
+    "id": 341,
+    "german": "Fehlersuchplan/Fehlersuchanleitung",
+    "english": "Troubleshooting chart / Fault finding guide"
+  },
+  {
+    "id": 342,
+    "german": "Fehlererkennung",
+    "english": "Fault detection"
+  },
+  {
+    "id": 343,
+    "german": "Fehlerdiagnose/Fehlersuche",
+    "english": "Fault diagnosis / Troubleshooting"
+  },
+  {
+    "id": 344,
+    "german": "Federkeil",
+    "english": "Feather key / Woodruff key"
+  },
+  {
+    "id": 345,
+    "german": "Bundes-Immissionsschutzgesetz",
+    "english": "Federal Immission Control Act"
+  },
+  {
+    "id": 346,
+    "german": "Wasserhaushaltsgesetz",
+    "english": "Federal Water Act"
+  },
+  {
+    "id": 347,
+    "german": "Spaltlehre; ugs. die Fühlerlehre",
+    "english": "Feeler gauge"
+  },
+  {
+    "id": 348,
+    "german": "Faserseil",
+    "english": "Fiber rope"
+  },
+  {
+    "id": 349,
+    "german": "(Halbrund-/Vierkant-/Dreikant-/Flach-)Feile",
+    "english": "(Half-round/Square/Triangular/Flat) File"
+  },
+  {
+    "id": 350,
+    "german": "Befüll- und Entlüftungsgerät",
+    "english": "Filling and bleeding unit"
+  },
+  {
+    "id": 351,
+    "german": "Füllnippel",
+    "english": "Filler nipple"
+  },
+  {
+    "id": 352,
+    "german": "Füllpumpe",
+    "english": "Filling pump"
+  },
+  {
+    "id": 353,
+    "german": "(Kühlsystem-)Befüllarmatur",
+    "english": "(Cooling system) Filler fitting"
+  },
+  {
+    "id": 354,
+    "german": "Ölfilterschlüssel",
+    "english": "Oil filter wrench"
+  },
+  {
+    "id": 355,
+    "german": "Endkontrolle",
+    "english": "Final inspection"
+  },
+  {
+    "id": 356,
+    "german": "Feingewinde",
+    "english": "Fine thread"
+  },
+  {
+    "id": 357,
+    "german": "Brand",
+    "english": "Fire / Blaze"
+  },
+  {
+    "id": 358,
+    "german": "Feuer",
+    "english": "Fire"
+  },
+  {
+    "id": 359,
+    "german": "Brandmelder; ugs. der Feuermelder",
+    "english": "Fire alarm / Smoke detector"
+  },
+  {
+    "id": 360,
+    "german": "Brandschutztür",
+    "english": "Fire door"
+  },
+  {
+    "id": 361,
+    "german": "Mittel und Geräte zur Brandbekämpfung (Pl.)",
+    "english": "Firefighting equipment"
+  },
+  {
+    "id": 362,
+    "german": "Feuerlöscher",
+    "english": "Fire extinguisher"
+  },
+  {
+    "id": 363,
+    "german": "Löschschlauch",
+    "english": "Fire hose"
+  },
+  {
+    "id": 364,
+    "german": "Hydrant",
+    "english": "Hydrant"
+  },
+  {
+    "id": 365,
+    "german": "Feuerleiter",
+    "english": "Fire escape ladder"
+  },
+  {
+    "id": 366,
+    "german": "Brandmeldetelefon",
+    "english": "Fire emergency phone"
+  },
+  {
+    "id": 367,
+    "german": "Brandschutz",
+    "english": "Fire protection / Fire safety"
+  },
+  {
+    "id": 368,
+    "german": "Brandschutzmaßnahme",
+    "english": "Fire safety measure"
+  },
+  {
+    "id": 369,
+    "german": "Brandschutzzeichen",
+    "english": "Fire safety sign"
+  },
+  {
+    "id": 370,
+    "german": "Firma",
+    "english": "Company / Firm"
+  },
+  {
+    "id": 371,
+    "german": "Erste Hilfe",
+    "english": "First aid"
+  },
+  {
+    "id": 372,
+    "german": "Anleitung zur Ersten Hilfe",
+    "english": "First aid instructions"
+  },
+  {
+    "id": 373,
+    "german": "Passschraube",
+    "english": "Fitted bolt / Shoulder screw"
+  },
+  {
+    "id": 374,
+    "german": "Anschlussstück",
+    "english": "Fitting / Connector"
+  },
+  {
+    "id": 375,
+    "german": "Montagepaste",
+    "english": "Assembly paste"
+  },
+  {
+    "id": 376,
+    "german": "Fixierstift; ugs. der Fixierdorn",
+    "english": "Locating pin / Fixing pin"
+  },
+  {
+    "id": 377,
+    "german": "Brennbarkeit",
+    "english": "Flammability"
+  },
+  {
+    "id": 378,
+    "german": "(nicht) entzündbare Stoff",
+    "english": "(Non-) Flammable substance"
+  },
+  {
+    "id": 379,
+    "german": "Bördelgerät",
+    "english": "Flaring tool"
+  },
+  {
+    "id": 380,
+    "german": "Blinkcode",
+    "english": "Flash code / Blink code"
+  },
+  {
+    "id": 381,
+    "german": "Flachzange",
+    "english": "Flat-nose pliers"
+  },
+  {
+    "id": 382,
+    "german": "Hebeband",
+    "english": "Lifting strap / Webbing sling"
+  },
+  {
+    "id": 383,
+    "german": "Fleecejacke",
+    "english": "Fleece jacket"
+  },
+  {
+    "id": 384,
+    "german": "Gelenkgriff",
+    "english": "Flex handle / Breaker bar"
+  },
+  {
+    "id": 385,
+    "german": "flexible Verlängerung",
+    "english": "Flexible extension"
+  },
+  {
+    "id": 386,
+    "german": "biegsame Welle",
+    "english": "Flexible shaft"
+  },
+  {
+    "id": 387,
+    "german": "Werkzeughalter",
+    "english": "Tool holder"
+  },
+  {
+    "id": 388,
+    "german": "Hindernis am Boden",
+    "english": "Floor obstacle"
+  },
+  {
+    "id": 389,
+    "german": "Flussmittel",
+    "english": "Flux"
+  },
+  {
+    "id": 390,
+    "german": "Schwungradarretierwerkzeug",
+    "english": "Flywheel locking tool"
+  },
+  {
+    "id": 391,
+    "german": "Falzzange",
+    "english": "Folding pliers / Seaming pliers"
+  },
+  {
+    "id": 392,
+    "german": "Gliedermaßstab; ugs. der Zollstock",
+    "english": "Folding rule / Yardstick"
+  },
+  {
+    "id": 393,
+    "german": "Fußschutz",
+    "english": "Foot protection"
+  },
+  {
+    "id": 394,
+    "german": "Abdruckschraube",
+    "english": "Forcing screw"
+  },
+  {
+    "id": 395,
+    "german": "Meister/-in/Vorarbeiter/-in",
+    "english": "Master / Foreman"
+  },
+  {
+    "id": 396,
+    "german": "Flurförderzeug; ugs. der Gabelstapler",
+    "english": "Industrial truck / Forklift"
+  },
+  {
+    "id": 397,
+    "german": "Viersäulen-Hebebühne",
+    "english": "Four-post lift"
+  },
+  {
+    "id": 398,
+    "german": "Vertragshändler",
+    "english": "Authorized dealer"
+  },
+  {
+    "id": 399,
+    "german": "handgeführte Schleifen",
+    "english": "Hand-guided grinding"
+  },
+  {
+    "id": 400,
+    "german": "Freilauf-Knarre",
+    "english": "Freewheel ratchet"
+  },
+  {
+    "id": 401,
+    "german": "Freilauf-Ringschlüssel",
+    "english": "Freewheel ring wrench"
+  },
+  {
+    "id": 402,
+    "german": "Frost",
+    "english": "Frost"
+  },
+  {
+    "id": 403,
+    "german": "Tankgeberschlüssel",
+    "english": "Fuel tank sender wrench"
+  },
+  {
+    "id": 404,
+    "german": "Atemschutzvollmaske; ugs. die Gasmaske",
+    "english": "Full face mask / Respirator"
+  },
+  {
+    "id": 405,
+    "german": "Einfülltrichter",
+    "english": "Funnel"
+  },
+  {
+    "id": 406,
+    "german": "Weiterverwertung",
+    "english": "Further recycling / Recovery"
+  },
+  {
+    "id": 407,
+    "german": "Weiterverwendung",
+    "english": "Re-use / Further use"
+  },
+  {
+    "id": 408,
+    "german": "Sicherungstester",
+    "english": "Fuse tester"
+  },
+  {
+    "id": 409,
+    "german": "Sicherungszange",
+    "english": "Fuse puller / Pliers"
+  },
+  {
+    "id": 410,
+    "german": "Portalwaschanlage",
+    "english": "Gantry car wash"
+  },
+  {
+    "id": 411,
+    "german": "Werkstatt",
+    "english": "Workshop / Garage"
+  },
+  {
+    "id": 412,
+    "german": "Gas",
+    "english": "Gas"
+  },
+  {
+    "id": 413,
+    "german": "Gasflasche",
+    "english": "Gas cylinder / Bottle"
+  },
+  {
+    "id": 414,
+    "german": "Gasdetektor",
+    "english": "Gas detector"
+  },
+  {
+    "id": 415,
+    "german": "Dichtungsschaber",
+    "english": "Gasket scraper"
+  },
+  {
+    "id": 416,
+    "german": "Autogen-Gasschmelzschweißen",
+    "english": "Oxy-fuel welding / Gas welding"
+  },
+  {
+    "id": 417,
+    "german": "Messgerät/Lehre",
+    "english": "Measuring instrument / Gauge"
+  },
+  {
+    "id": 418,
+    "german": "Messeinsatz",
+    "english": "Measuring insert"
+  },
+  {
+    "id": 419,
+    "german": "Abzieher",
+    "english": "Puller"
+  },
+  {
+    "id": 420,
+    "german": "Hauptuntersuchung",
+    "english": "General inspection (TÜV/MOT)"
+  },
+  {
+    "id": 421,
+    "german": "allgemein wassergefährdend(-e/-er/-es); Abk. awg",
+    "english": "Generally hazardous to water"
+  },
+  {
+    "id": 422,
+    "german": "Steckschlüssel-Schoneinsatz für Schlagschrauber",
+    "english": "Protective impact socket"
+  },
+  {
+    "id": 423,
+    "german": "Handschuh",
+    "english": "Glove"
+  },
+  {
+    "id": 424,
+    "german": "Schutzbrille",
+    "english": "Safety goggles / Glasses"
+  },
+  {
+    "id": 425,
+    "german": "Fett/Schmiere",
+    "english": "Grease"
+  },
+  {
+    "id": 426,
+    "german": "Fettpresse",
+    "english": "Grease gun"
+  },
+  {
+    "id": 427,
+    "german": "Schmiernippel",
+    "english": "Grease nipple"
+  },
+  {
+    "id": 428,
+    "german": "Schleifmaschine",
+    "english": "Grinding machine / Grinder"
+  },
+  {
+    "id": 429,
+    "german": "Schleifmittel",
+    "english": "Abrasive / Grinding agent"
+  },
+  {
+    "id": 430,
+    "german": "Schleifscheibe",
+    "english": "Grinding wheel / Disc"
+  },
+  {
+    "id": 431,
+    "german": "(flexible) Greifer",
+    "english": "(Flexible) Gripper / Pick-up tool"
+  },
+  {
+    "id": 432,
+    "german": "Durchgangstülle",
+    "english": "Grommet"
+  },
+  {
+    "id": 433,
+    "german": "Nutmutter(einsatz)",
+    "english": "Groove nut (socket)"
+  },
+  {
+    "id": 434,
+    "german": "Gewindestift",
+    "english": "Grub screw / Set screw"
+  },
+  {
+    "id": 435,
+    "german": "Garantie",
+    "english": "Warranty / Guarantee"
+  },
+  {
+    "id": 436,
+    "german": "Führungsbolzen",
+    "english": "Guide bolt / Guide pin"
+  },
+  {
+    "id": 437,
+    "german": "Bügel-/Metall-/Eisensäge",
+    "english": "Hacksaw"
+  },
+  {
+    "id": 438,
+    "german": "Hammer",
+    "english": "Hammer"
+  },
+  {
+    "id": 439,
+    "german": "Handschleifer",
+    "english": "Hand sander / Block"
+  },
+  {
+    "id": 440,
+    "german": "Hand-Schlagschrauber",
+    "english": "Hand impact driver"
+  },
+  {
+    "id": 441,
+    "german": "Handverletzung",
+    "english": "Hand injury"
+  },
+  {
+    "id": 442,
+    "german": "Handleuchte",
+    "english": "Hand lamp / Inspection lamp"
+  },
+  {
+    "id": 443,
+    "german": "Handnietzange",
+    "english": "Hand riveter"
+  },
+  {
+    "id": 444,
+    "german": "Handwerkzeug",
+    "english": "Hand tool"
+  },
+  {
+    "id": 445,
+    "german": "Kopfschutz/Schutzhelm; ugs. der Arbeitshelm",
+    "english": "Head protection / Safety helmet / Hard hat"
+  },
+  {
+    "id": 446,
+    "german": "Hartgummi",
+    "english": "Hard rubber"
+  },
+  {
+    "id": 447,
+    "german": "gesundheitsschädliche Stoff",
+    "english": "Harmful substance"
+  },
+  {
+    "id": 448,
+    "german": "Gefahr",
+    "english": "Hazard"
+  },
+  {
+    "id": 449,
+    "german": "Gefahrklasse",
+    "english": "Hazard class"
+  },
+  {
+    "id": 450,
+    "german": "umweltgefährliche Stoff",
+    "english": "Environmentally hazardous substance"
+  },
+  {
+    "id": 451,
+    "german": "Gefahrstoffverordnung",
+    "english": "Hazardous Substances Ordinance"
+  },
+  {
+    "id": 452,
+    "german": "gefährliche Abfall",
+    "english": "Hazardous waste"
+  },
+  {
+    "id": 453,
+    "german": "Gefahren-/Warnzeichen",
+    "english": "Hazard warning sign"
+  },
+  {
+    "id": 454,
+    "german": "Gefahrensymbol",
+    "english": "Hazard symbol"
+  },
+  {
+    "id": 455,
+    "german": "Kopf",
+    "english": "Head"
+  },
+  {
+    "id": 456,
+    "german": "(alte) Scheinwerferlampe",
+    "english": "(Used) Headlight bulb"
+  },
+  {
+    "id": 457,
+    "german": "Scheinwerfereinstellgerät",
+    "english": "Headlight aiming device / Beam setter"
+  },
+  {
+    "id": 458,
+    "german": "Scheinwerferprüfgerät",
+    "english": "Headlight tester"
+  },
+  {
+    "id": 459,
+    "german": "gesundheitsgefährdende Stoff",
+    "english": "Health hazard substance"
+  },
+  {
+    "id": 460,
+    "german": "Gesundheitsrisiko",
+    "english": "Health risk"
+  },
+  {
+    "id": 461,
+    "german": "Glühkerzenzange",
+    "english": "Glow plug pliers"
+  },
+  {
+    "id": 462,
+    "german": "Glühkerzen-Prüfgerät",
+    "english": "Glow plug tester"
+  },
+  {
+    "id": 463,
+    "german": "Schrumpfschlauch",
+    "english": "Heat shrink tubing"
+  },
+  {
+    "id": 464,
+    "german": "Sechskantmutter",
+    "english": "Hexagon nut / Hex nut"
+  },
+  {
+    "id": 465,
+    "german": "(Innen-)Sechskant; ugs. der Inbus",
+    "english": "Hexagon socket / Allen key"
+  },
+  {
+    "id": 466,
+    "german": "Sechskantschraube",
+    "english": "Hexagon bolt / Hex screw"
+  },
+  {
+    "id": 467,
+    "german": "Innensechskantschlüssel; ugs. der Inbusschlüssel",
+    "english": "Allen key / Hex key"
+  },
+  {
+    "id": 468,
+    "german": "Kraft-Seitenschneider",
+    "english": "High-leverage diagonal cutters"
+  },
+  {
+    "id": 469,
+    "german": "leichtentzündliche Stoff",
+    "english": "Highly flammable substance"
+  },
+  {
+    "id": 470,
+    "german": "Hochdruckreiniger",
+    "english": "High-pressure cleaner / Pressure washer"
+  },
+  {
+    "id": 471,
+    "german": "Warnweste",
+    "english": "High-visibility vest"
+  },
+  {
+    "id": 472,
+    "german": "Lochsäge/-fräser",
+    "english": "Hole saw"
+  },
+  {
+    "id": 473,
+    "german": "Lochschere",
+    "english": "Hole shears / Snips"
+  },
+  {
+    "id": 474,
+    "german": "Lochlehre",
+    "english": "Hole gauge"
+  },
+  {
+    "id": 475,
+    "german": "Urlaub",
+    "english": "Holiday / Leave / Vacation"
+  },
+  {
+    "id": 476,
+    "german": "Honwerkzeug",
+    "english": "Honing tool"
+  },
+  {
+    "id": 477,
+    "german": "Haken",
+    "english": "Hook"
+  },
+  {
+    "id": 478,
+    "german": "(Hydraulik-/Druckluft-)Schlauch",
+    "english": "(Hydraulic/Air) Hose"
+  },
+  {
+    "id": 479,
+    "german": "Schlauchklemme/-schelle",
+    "english": "Hose clamp / Hose clip"
+  },
+  {
+    "id": 480,
+    "german": "Schlauchklemmenzange/Schlauchschellenzange",
+    "english": "Hose clamp pliers"
+  },
+  {
+    "id": 481,
+    "german": "Schlauchtrommel",
+    "english": "Hose reel"
+  },
+  {
+    "id": 482,
+    "german": "Schlauchband",
+    "english": "Hose strap"
+  },
+  {
+    "id": 483,
+    "german": "Schlauch-Abstreifzange",
+    "english": "Hose removal pliers"
+  },
+  {
+    "id": 484,
+    "german": "Heißluftgebläse",
+    "english": "Hot air gun / Heat gun"
+  },
+  {
+    "id": 485,
+    "german": "Achsmuttern-Schlüssel",
+    "english": "Axle nut wrench"
+  },
+  {
+    "id": 486,
+    "german": "Radkapsel-Schlüssel",
+    "english": "Hubcap wrench"
+  },
+  {
+    "id": 487,
+    "german": "(Rad-)Nabenabzieher",
+    "english": "(Wheel) Hub puller"
+  },
+  {
+    "id": 488,
+    "german": "Nabenschlüssel",
+    "english": "Hub wrench"
+  },
+  {
+    "id": 489,
+    "german": "Personalwesen",
+    "english": "Human Resources (HR)"
+  },
+  {
+    "id": 490,
+    "german": "hydraulische Heber",
+    "english": "Hydraulic jack"
+  },
+  {
+    "id": 491,
+    "german": "Hydrauliköl",
+    "english": "Hydraulic oil"
+  },
+  {
+    "id": 492,
+    "german": "(Kühlsystem-)Abdrück- und Prüfgerät",
+    "english": "Pressure tester (Cooling system)"
+  },
+  {
+    "id": 493,
+    "german": "hydraulische Rangierwagenhheber",
+    "english": "Hydraulic trolley jack"
+  },
+  {
+    "id": 494,
+    "german": "Batteriesäureprüfer",
+    "english": "Hydrometer (Battery)"
+  },
+  {
+    "id": 495,
+    "german": "Doppel-T-Griff",
+    "english": "Double T-handle"
+  },
+  {
+    "id": 496,
+    "german": "Doppel-T-Griffschlüssel",
+    "english": "Double T-handle wrench"
+  },
+  {
+    "id": 497,
+    "german": "entzündend (oxidierend) wirkende Stoff",
+    "english": "Oxidizing substance"
+  },
+  {
+    "id": 498,
+    "german": "Zündspulen-Auszieher",
+    "english": "Ignition coil puller"
+  },
+  {
+    "id": 499,
+    "german": "Zündoszilloskop/-oszillograph",
+    "english": "Ignition oscilloscope"
+  },
+  {
+    "id": 500,
+    "german": "Zündoszillogramm",
+    "english": "Ignition oscillogram"
+  },
+  {
+    "id": 501,
+    "german": "Schlag-Ausziehgerät",
+    "english": "Impact puller / Slide hammer"
+  },
+  {
+    "id": 502,
+    "german": "Schlag-Schraubendreher",
+    "english": "Impact screwdriver"
+  },
+  {
+    "id": 503,
+    "german": "(Akku-)Schlagschrauber",
+    "english": "(Cordless) Impact wrench"
+  },
+  {
+    "id": 504,
+    "german": "Ungenauigkeit",
+    "english": "Inaccuracy"
+  },
+  {
+    "id": 505,
+    "german": "Notausgangsvorrichtung erreichbar nach Zerschlagen einer Scheibe",
+    "english": "Emergency exit break-glass device"
+  },
+  {
+    "id": 506,
+    "german": "Messwert",
+    "english": "Measured value / Reading"
+  },
+  {
+    "id": 507,
+    "german": "Induktionsspule",
+    "english": "Induction coil"
+  },
+  {
+    "id": 508,
+    "german": "Induktionsheizgerät",
+    "english": "Induction heater"
+  },
+  {
+    "id": 509,
+    "german": "Zangen-Strommessgerät; ugs. die Strommesszange",
+    "english": "Clamp meter"
+  },
+  {
+    "id": 510,
+    "german": "Schutzgas",
+    "english": "Shielding gas / Inert gas"
+  },
+  {
+    "id": 511,
+    "german": "Stoff der bei Berührung mit Wasser entzündbare Gase entwickelt",
+    "english": "Substance releasing flammable gases on contact with water"
+  },
+  {
+    "id": 512,
+    "german": "Auskunftssystem",
+    "english": "Information system"
+  },
+  {
+    "id": 513,
+    "german": "Unterflur-Hebebühne",
+    "english": "In-ground lift"
+  },
+  {
+    "id": 514,
+    "german": "Einspritzpumpen-Prüfgerät",
+    "english": "Injection pump tester"
+  },
+  {
+    "id": 515,
+    "german": "Einspritzdüsen-Prüfstand",
+    "english": "Injector test bench"
+  },
+  {
+    "id": 516,
+    "german": "Einspritzpumpen-Prüfstand",
+    "english": "Injection pump test bench"
+  },
+  {
+    "id": 517,
+    "german": "Einzieher",
+    "english": "Installer / Pull-in tool"
+  },
+  {
+    "id": 518,
+    "german": "Innentaster",
+    "english": "Internal caliper"
+  },
+  {
+    "id": 519,
+    "german": "Innenmessschraube",
+    "english": "Internal micrometer"
+  },
+  {
+    "id": 520,
+    "german": "Innentorxschraube",
+    "english": "Internal Torx screw"
+  },
+  {
+    "id": 521,
+    "german": "Inspektion",
+    "english": "Inspection / Service"
+  },
+  {
+    "id": 522,
+    "german": "Stableuchte",
+    "english": "Penlight / Inspection lamp"
+  },
+  {
+    "id": 523,
+    "german": "(Teleskop-)Inspektionsspiegel (mit Beleuchtung/mit Kugelgelenk)",
+    "english": "(Telescopic) Inspection mirror (illuminated/with ball joint)"
+  },
+  {
+    "id": 524,
+    "german": "Inspektionsplan",
+    "english": "Inspection schedule / Service plan"
+  },
+  {
+    "id": 525,
+    "german": "Anweisung",
+    "english": "Instruction / Directive"
+  },
+  {
+    "id": 526,
+    "german": "Ausbilder/-in",
+    "english": "Instructor / Trainer"
+  },
+  {
+    "id": 527,
+    "german": "Isolierung",
+    "english": "Insulation"
+  },
+  {
+    "id": 528,
+    "german": "Isolierband",
+    "english": "Insulation tape / Electrical tape"
+  },
+  {
+    "id": 529,
+    "german": "Innenraumverkleidungswerkzeug",
+    "english": "Interior trim tool"
+  },
+  {
+    "id": 530,
+    "german": "Innenmessschraube",
+    "english": "Inside micrometer"
+  },
+  {
+    "id": 531,
+    "german": "Innengewinde",
+    "english": "Internal thread"
+  },
+  {
+    "id": 532,
+    "german": "(nicht) ionisierende/radioaktive Strahlung",
+    "english": "(Non-) Ionizing/Radioactive radiation"
+  },
+  {
+    "id": 533,
+    "german": "reizende Stoff",
+    "english": "Irritant substance"
+  },
+  {
+    "id": 534,
+    "german": "(hydraulische) Wagenheber",
+    "english": "(Hydraulic) Jack"
+  },
+  {
+    "id": 535,
+    "german": "Abdrückvorrichtung",
+    "english": "Jack-off device / Pusher"
+  },
+  {
+    "id": 536,
+    "german": "Abdrückschraube",
+    "english": "Jacking screw"
+  },
+  {
+    "id": 537,
+    "german": "Schraubenwinde",
+    "english": "Screw jack"
+  },
+  {
+    "id": 538,
+    "german": "Düsenlehre",
+    "english": "Jet gauge / Nozzle gauge"
+  },
+  {
+    "id": 539,
+    "german": "Stichsäge",
+    "english": "Jigsaw"
+  },
+  {
+    "id": 540,
+    "german": "Auftragskarte",
+    "english": "Job card / Repair order"
+  },
+  {
+    "id": 541,
+    "german": "Gelenk-Knarre",
+    "english": "Jointed ratchet / Flex-head ratchet"
+  },
+  {
+    "id": 542,
+    "german": "Geselle/Gesellin",
+    "english": "Journeyman / Skilled worker"
+  },
+  {
+    "id": 543,
+    "german": "(Kühlmittel-)Kanne",
+    "english": "(Coolant) Jug / Can"
+  },
+  {
+    "id": 544,
+    "german": "Taschensäge; ugs. die Puksäge",
+    "english": "Junior hacksaw / Mini hacksaw"
+  },
+  {
+    "id": 545,
+    "german": "Stichsäge",
+    "english": "Jigsaw / Keyhole saw"
+  },
+  {
+    "id": 546,
+    "german": "Knieschutzmatte/Knieschutzpolster",
+    "english": "Kneeling mat / Knee pads"
+  },
+  {
+    "id": 547,
+    "german": "Messer",
+    "english": "Knife"
+  },
+  {
+    "id": 548,
+    "german": "Laserstrahl",
+    "english": "Laser beam"
+  },
+  {
+    "id": 549,
+    "german": "Laserstrahlhartlöten",
+    "english": "Laser beam brazing"
+  },
+  {
+    "id": 550,
+    "german": "Laserschmelzschneiden",
+    "english": "Laser fusion cutting"
+  },
+  {
+    "id": 551,
+    "german": "Laserschmelzschweißen",
+    "english": "Laser beam welding"
+  },
+  {
+    "id": 552,
+    "german": "(Digital-)Laserthermometer",
+    "english": "(Digital) Laser thermometer"
+  },
+  {
+    "id": 553,
+    "german": "Chemikalienrecht/-gesetz",
+    "english": "Chemicals Act / Law"
+  },
+  {
+    "id": 554,
+    "german": "Leck",
+    "english": "Leak"
+  },
+  {
+    "id": 555,
+    "german": "(Klimaanlagen-)Lecksuchgerät",
+    "english": "(A/C) Leak detector"
+  },
+  {
+    "id": 556,
+    "german": "Hebel",
+    "english": "Lever"
+  },
+  {
+    "id": 557,
+    "german": "Aufzug",
+    "english": "Lift / Elevator"
+  },
+  {
+    "id": 558,
+    "german": "Hebebühne",
+    "english": "Lift / Hoist"
+  },
+  {
+    "id": 559,
+    "german": "Lichtmessgerät",
+    "english": "Light meter / Photometer"
+  },
+  {
+    "id": 560,
+    "german": "Grenz(rachen)lehre",
+    "english": "Limit (snap) gauge"
+  },
+  {
+    "id": 561,
+    "german": "(Hydraulik-/Druckluft-)Leitung",
+    "english": "(Hydraulic/Pneumatic) Line / Pipe"
+  },
+  {
+    "id": 562,
+    "german": "Leitungsverschluss",
+    "english": "Line plug / Stopper"
+  },
+  {
+    "id": 563,
+    "german": "offene (Doppel-)Ringschlüssel",
+    "english": "Flare nut wrench / Open-end ring wrench"
+  },
+  {
+    "id": 564,
+    "german": "Flüssigkeit",
+    "english": "Liquid / Fluid"
+  },
+  {
+    "id": 565,
+    "german": "(schwere) Last",
+    "english": "(Heavy) Load"
+  },
+  {
+    "id": 566,
+    "german": "Fixierstift",
+    "english": "Locating pin"
+  },
+  {
+    "id": 567,
+    "german": "Fixierschraube",
+    "english": "Locking screw / Set screw"
+  },
+  {
+    "id": 568,
+    "german": "Schloss/Verriegelung",
+    "english": "Lock"
+  },
+  {
+    "id": 569,
+    "german": "(automatische) Schraubzange; ugs. die Gripzange",
+    "english": "Locking pliers / Vise-grips"
+  },
+  {
+    "id": 570,
+    "german": "Sicherungsscheibe",
+    "english": "Lock washer"
+  },
+  {
+    "id": 571,
+    "german": "Kontermutter",
+    "english": "Lock nut / Jam nut"
+  },
+  {
+    "id": 572,
+    "german": "Einschaltschutz",
+    "english": "Lockout / Start-up protection"
+  },
+  {
+    "id": 573,
+    "german": "Blockierwerkzeug",
+    "english": "Blocking tool / Locking tool"
+  },
+  {
+    "id": 574,
+    "german": "Arretierwerkzeug",
+    "english": "Locking tool"
+  },
+  {
+    "id": 575,
+    "german": "Langarm-T-Shirt",
+    "english": "Long-sleeve shirt"
+  },
+  {
+    "id": 576,
+    "german": "Lösewerkzeug",
+    "english": "Release tool / Loosening tool"
+  },
+  {
+    "id": 577,
+    "german": "Schmiermittel",
+    "english": "Lubricant"
+  },
+  {
+    "id": 578,
+    "german": "Lauge",
+    "english": "Lye / Alkali"
+  },
+  {
+    "id": 579,
+    "german": "Maschinenschutz",
+    "english": "Machine guard"
+  },
+  {
+    "id": 580,
+    "german": "Magnet/Stabmagnet",
+    "english": "Magnet / Bar magnet"
+  },
+  {
+    "id": 581,
+    "german": "Magnet(haft)schale",
+    "english": "Magnetic tray / Bowl"
+  },
+  {
+    "id": 582,
+    "german": "Magnetclip-Halter",
+    "english": "Magnetic clip holder"
+  },
+  {
+    "id": 583,
+    "german": "magnetische Feld; ugs. das Magnetfeld",
+    "english": "Magnetic field"
+  },
+  {
+    "id": 584,
+    "german": "(flexible) Magnetgreifer",
+    "english": "(Flexible) Magnetic pick-up tool"
+  },
+  {
+    "id": 585,
+    "german": "(flexible) Magnetheber",
+    "english": "(Flexible) Magnetic lifter"
+  },
+  {
+    "id": 586,
+    "german": "Magnet-Werkzeugleiste",
+    "english": "Magnetic tool strip/bar"
+  },
+  {
+    "id": 587,
+    "german": "(einpolige/zweipolige) Phasenprüfer/Durchgangsprüfer/Spannungstester",
+    "english": "(Single-pole/Two-pole) Voltage tester / Continuity tester"
+  },
+  {
+    "id": 588,
+    "german": "Netzstecker",
+    "english": "Mains plug"
+  },
+  {
+    "id": 589,
+    "german": "Instandhaltung/Wartung",
+    "english": "Maintenance"
+  },
+  {
+    "id": 590,
+    "german": "Wartungsplan",
+    "english": "Maintenance schedule"
+  },
+  {
+    "id": 591,
+    "german": "Wartungstabelle",
+    "english": "Maintenance chart"
+  },
+  {
+    "id": 592,
+    "german": "Hauptinspektion",
+    "english": "Major inspection / Major service"
+  },
+  {
+    "id": 593,
+    "german": "Fehlfunktion",
+    "english": "Malfunction"
+  },
+  {
+    "id": 594,
+    "german": "Betriebsleitung",
+    "english": "Management / Operations management"
+  },
+  {
+    "id": 595,
+    "german": "Geschäftsführer/-in",
+    "english": "Managing Director / CEO"
+  },
+  {
+    "id": 596,
+    "german": "Gebot",
+    "english": "Mandatory action / Requirement"
+  },
+  {
+    "id": 597,
+    "german": "(allgemeine) Gebotszeichen",
+    "english": "Mandatory sign"
+  },
+  {
+    "id": 598,
+    "german": "Lichtbogenhandschweißen",
+    "english": "Manual arc welding / Shielded metal arc welding"
+  },
+  {
+    "id": 599,
+    "german": "Hersteller",
+    "english": "Manufacturer"
+  },
+  {
+    "id": 600,
+    "german": "Kennzeichnung",
+    "english": "Marking / Labeling"
+  },
+  {
+    "id": 601,
+    "german": "Maske",
+    "english": "Mask"
+  },
+  {
+    "id": 602,
+    "german": "Werkstattmeister/-in",
+    "english": "Workshop master / Workshop foreman"
+  },
+  {
+    "id": 603,
+    "german": "Mittelwert",
+    "english": "Mean value / Average"
+  },
+  {
+    "id": 604,
+    "german": "Prüfmittel",
+    "english": "Measuring and test equipment"
+  },
+  {
+    "id": 605,
+    "german": "Messgerät",
+    "english": "Measuring device / Instrument"
+  },
+  {
+    "id": 606,
+    "german": "Messsonde",
+    "english": "Measuring probe"
+  },
+  {
+    "id": 607,
+    "german": "Messgröße",
+    "english": "Measured quantity / Parameter"
+  },
+  {
+    "id": 608,
+    "german": "Messwerkzeug",
+    "english": "Measuring tool"
+  },
+  {
+    "id": 609,
+    "german": "Mechaniker/-in",
+    "english": "Mechanic"
+  },
+  {
+    "id": 610,
+    "german": "mechanische Werkstatt",
+    "english": "Mechanical workshop"
+  },
+  {
+    "id": 611,
+    "german": "Metallaktivgasschweißen",
+    "english": "Metal Active Gas (MAG) welding"
+  },
+  {
+    "id": 612,
+    "german": "Metallschutzgasschweißen",
+    "english": "Gas Metal Arc Welding (GMAW) / MIG/MAG welding"
+  },
+  {
+    "id": 613,
+    "german": "Metallinertgaslöten/-schweißen",
+    "english": "Metal Inert Gas (MIG) brazing/welding"
+  },
+  {
+    "id": 614,
+    "german": "Metallsägeblatt",
+    "english": "Hacksaw blade / Metal saw blade"
+  },
+  {
+    "id": 615,
+    "german": "Mikrofaser(-Allzweck)tuch",
+    "english": "Microfiber (all-purpose) cloth"
+  },
+  {
+    "id": 616,
+    "german": "(Bügel-)Messschraube",
+    "english": "Micrometer"
+  },
+  {
+    "id": 617,
+    "german": "Fräser",
+    "english": "Milling cutter"
+  },
+  {
+    "id": 618,
+    "german": "Fräsbohrer",
+    "english": "Milling drill"
+  },
+  {
+    "id": 619,
+    "german": "Anschlagwinkel 45°",
+    "english": "Miter square 45°"
+  },
+  {
+    "id": 620,
+    "german": "Reaktionskleber",
+    "english": "Reaction adhesive / 2-component adhesive"
+  },
+  {
+    "id": 621,
+    "german": "Mobiltelefon; ugs. das Smartphone",
+    "english": "Mobile phone / Smartphone"
+  },
+  {
+    "id": 622,
+    "german": "Frühschicht",
+    "english": "Early shift / Morning shift"
+  },
+  {
+    "id": 623,
+    "german": "Motoröl",
+    "english": "Engine oil / Motor oil"
+  },
+  {
+    "id": 624,
+    "german": "Montagescheibe",
+    "english": "Mounting washer"
+  },
+  {
+    "id": 625,
+    "german": "Montagehaken",
+    "english": "Assembly hook"
+  },
+  {
+    "id": 626,
+    "german": "Montagezange",
+    "english": "Assembly pliers"
+  },
+  {
+    "id": 627,
+    "german": "Montage-/Einziehwerkzeug",
+    "english": "Assembly tool / Installation tool"
+  },
+  {
+    "id": 628,
+    "german": "Schwenkarm",
+    "english": "Swivel arm / Swing arm"
+  },
+  {
+    "id": 629,
+    "german": "(analoge/digitale) Vielfachmessgerät/Multimeter",
+    "english": "(Analog/Digital) Multimeter"
+  },
+  {
+    "id": 630,
+    "german": "Innenvielzahnschraube XZN",
+    "english": "Triple square screw (XZN)"
+  },
+  {
+    "id": 631,
+    "german": "Innenkeilprofilschraube RIBE CV",
+    "english": "Polydrive screw / RIBE CV"
+  },
+  {
+    "id": 632,
+    "german": "Multifunktionswerkzeug",
+    "english": "Multi-tool"
+  },
+  {
+    "id": 633,
+    "german": "offene Feuer/Flamme",
+    "english": "Open fire / Naked flame"
+  },
+  {
+    "id": 634,
+    "german": "Spitzzange",
+    "english": "Needle-nose pliers / Long-nose pliers"
+  },
+  {
+    "id": 635,
+    "german": "(Blech-)Nibbler",
+    "english": "Nibbler"
+  },
+  {
+    "id": 636,
+    "german": "Knabberschneidwerkzeug",
+    "english": "Nibbling tool"
+  },
+  {
+    "id": 637,
+    "german": "Nachtschicht",
+    "english": "Night shift"
+  },
+  {
+    "id": 638,
+    "german": "Soll-/Nennmaß",
+    "english": "Nominal dimension / Target size"
+  },
+  {
+    "id": 639,
+    "german": "Anti-Rutsch-Matte",
+    "english": "Anti-slip mat"
+  },
+  {
+    "id": 640,
+    "german": "Normalglühen",
+    "english": "Normalizing"
+  },
+  {
+    "id": 641,
+    "german": "(allgemeine) Verbotszeichen",
+    "english": "Prohibition sign"
+  },
+  {
+    "id": 642,
+    "german": "nicht wassergefährdend(-e/-er/-es)",
+    "english": "Non-hazardous to water"
+  },
+  {
+    "id": 643,
+    "german": "(Schrauben-)Mutter",
+    "english": "Nut"
+  },
+  {
+    "id": 644,
+    "german": "selbstsichernde Mutter mit Kunststoffeinsatz",
+    "english": "Nyloc nut / Self-locking nut"
+  },
+  {
+    "id": 645,
+    "german": "Arbeits- und Gesundheitsschutz",
+    "english": "Occupational Health and Safety (OHS)"
+  },
+  {
+    "id": 646,
+    "german": "Büroraum; ugs. das Büro",
+    "english": "Office"
+  },
+  {
+    "id": 647,
+    "german": "Winkelschraubendreher",
+    "english": "Offset screwdriver / Right-angle screwdriver"
+  },
+  {
+    "id": 648,
+    "german": "Ölkanne",
+    "english": "Oil can"
+  },
+  {
+    "id": 649,
+    "german": "Ölfilterkappe",
+    "english": "Oil filter cap"
+  },
+  {
+    "id": 650,
+    "german": "Ölfilterschlüssel",
+    "english": "Oil filter wrench"
+  },
+  {
+    "id": 651,
+    "german": "Öl-Benzin-Abscheider",
+    "english": "Oil/Petrol separator"
+  },
+  {
+    "id": 652,
+    "german": "Ölabsauggerät",
+    "english": "Oil extraction unit / Oil evacuator"
+  },
+  {
+    "id": 653,
+    "german": "Ölspritze",
+    "english": "Oil syringe / Suction gun"
+  },
+  {
+    "id": 654,
+    "german": "Altautoentsorgung",
+    "english": "End-of-life vehicle disposal"
+  },
+  {
+    "id": 655,
+    "german": "Altautoverordnung",
+    "english": "End-of-Life Vehicle Regulation"
+  },
+  {
+    "id": 656,
+    "german": "(gekröpfte) (Doppel-)Gabelschlüssel; ugs. der (gekröpfte) (Doppel-)Maulschlüssel",
+    "english": "(Offset) Open-end wrench / Spanner"
+  },
+  {
+    "id": 657,
+    "german": "Betriebsanweisung (Maschine)",
+    "english": "Operating instructions / SOP (Standard Operating Procedure)"
+  },
+  {
+    "id": 658,
+    "german": "Anleitung",
+    "english": "Instructions / Manual"
+  },
+  {
+    "id": 659,
+    "german": "optische Strahlung",
+    "english": "Optical radiation"
+  },
+  {
+    "id": 660,
+    "german": "Auftragsbearbeitung",
+    "english": "Order processing"
+  },
+  {
+    "id": 661,
+    "german": "organische Stoff",
+    "english": "Organic substance"
+  },
+  {
+    "id": 662,
+    "german": "O-Dichtring",
+    "english": "O-ring"
+  },
+  {
+    "id": 663,
+    "german": "(Normal-/Sekundär-)Oszillogramm",
+    "english": "(Standard/Secondary) Oscillogram"
+  },
+  {
+    "id": 664,
+    "german": "(Einkanal-/Zweikanal-)Oszilloskop; ugs. das Oszi",
+    "english": "(Single-channel/Dual-channel) Oscilloscope; colloq. Scope"
+  },
+  {
+    "id": 665,
+    "german": "Ausblasdüse",
+    "english": "Blow-out nozzle"
+  },
+  {
+    "id": 666,
+    "german": "Außentaster",
+    "english": "Outside calipers / External calipers"
+  },
+  {
+    "id": 667,
+    "german": "(analoge/digitale) Bügelmessschraube für Außenmessung; ugs. die Mikrometerschraube",
+    "english": "(Analog/Digital) External micrometer"
+  },
+  {
+    "id": 668,
+    "german": "Außen-Torxschraube",
+    "english": "External Torx screw"
+  },
+  {
+    "id": 669,
+    "german": "(General-)Überholung",
+    "english": "Overhaul / Reconditioning"
+  },
+  {
+    "id": 670,
+    "german": "Hindernis im Kopfbereich",
+    "english": "Overhead obstacle"
+  },
+  {
+    "id": 671,
+    "german": "Überstunde",
+    "english": "Overtime"
+  },
+  {
+    "id": 672,
+    "german": "Überspannungsschutz",
+    "english": "Overvoltage protection / Surge protection"
+  },
+  {
+    "id": 673,
+    "german": "brandfördernde Stoff",
+    "english": "Oxidizing substance"
+  },
+  {
+    "id": 674,
+    "german": "Lackierwerkstatt; ugs. der Lackierer",
+    "english": "Paint shop / Body and paint shop"
+  },
+  {
+    "id": 675,
+    "german": "Handgabel-Hubwagen; ugs. der Hubwagen",
+    "english": "Pallet jack / Pallet truck"
+  },
+  {
+    "id": 676,
+    "german": "Parallaxenfehler",
+    "english": "Parallax error"
+  },
+  {
+    "id": 677,
+    "german": "Ersatzteillager",
+    "english": "Parts warehouse / Spare parts department"
+  },
+  {
+    "id": 678,
+    "german": "Bezahlung",
+    "english": "Payment"
+  },
+  {
+    "id": 679,
+    "german": "Leistungsmessung",
+    "english": "Performance measurement / Power test"
+  },
+  {
+    "id": 680,
+    "german": "Personalführung",
+    "english": "Personnel management / Leadership"
+  },
+  {
+    "id": 681,
+    "german": "persönliche Schutzausrüstung",
+    "english": "Personal Protective Equipment (PPE)"
+  },
+  {
+    "id": 682,
+    "german": "Tankstelle mit KFZ-Reparaturservice",
+    "english": "Petrol station with repair service"
+  },
+  {
+    "id": 683,
+    "german": "Kreuzschlitzschraube",
+    "english": "Phillips screw / Cross-head screw"
+  },
+  {
+    "id": 684,
+    "german": "Kreuzschlitzschraubendreher",
+    "english": "Phillips screwdriver"
+  },
+  {
+    "id": 685,
+    "german": "Kneifzange",
+    "english": "Pincers / End-cutting pliers"
+  },
+  {
+    "id": 686,
+    "german": "Splinttreiber",
+    "english": "Pin punch"
+  },
+  {
+    "id": 687,
+    "german": "Haken-/Zapfenschlüssel",
+    "english": "Pin spanner / Hook wrench"
+  },
+  {
+    "id": 688,
+    "german": "Rohrbiegezange",
+    "english": "Pipe bending pliers"
+  },
+  {
+    "id": 689,
+    "german": "Rohrschneidezange; ugs. der Rohrschneider",
+    "english": "Pipe cutter"
+  },
+  {
+    "id": 690,
+    "german": "(Einhand-)(Eck-)Rohrzange",
+    "english": "Pipe wrench / Stillson wrench"
+  },
+  {
+    "id": 691,
+    "german": "Kolbenring-Spannband",
+    "english": "Piston ring compressor"
+  },
+  {
+    "id": 692,
+    "german": "Kolbenringzange",
+    "english": "Piston ring pliers"
+  },
+  {
+    "id": 693,
+    "german": "Plasmaschneiden",
+    "english": "Plasma cutting"
+  },
+  {
+    "id": 694,
+    "german": "Pflaster",
+    "english": "Plaster / Band-Aid"
+  },
+  {
+    "id": 695,
+    "german": "(kohlenstofffaserverstärkte) Kunststoff",
+    "english": "Plastic / (CFRP - Carbon Fiber Reinforced Polymer)"
+  },
+  {
+    "id": 696,
+    "german": "Kunststoffhammer",
+    "english": "Plastic hammer / Soft-face hammer"
+  },
+  {
+    "id": 697,
+    "german": "Zange",
+    "english": "Pliers"
+  },
+  {
+    "id": 698,
+    "german": "Grenzlehrdorn",
+    "english": "Plug gauge / Go/No-go gauge"
+  },
+  {
+    "id": 699,
+    "german": "Steckeinsatz",
+    "english": "Plug-in insert"
+  },
+  {
+    "id": 700,
+    "german": "Stecknippel",
+    "english": "Plug nipple / Coupling nipple"
+  },
+  {
+    "id": 701,
+    "german": "Druckluft-Ratsche(nschrauber)",
+    "english": "Pneumatic ratchet / Air ratchet"
+  },
+  {
+    "id": 702,
+    "german": "pneumatische Werkzeug",
+    "english": "Pneumatic tool / Air tool"
+  },
+  {
+    "id": 703,
+    "german": "Poliermaschine",
+    "english": "Polishing machine / Buffer"
+  },
+  {
+    "id": 704,
+    "german": "Poliertuch",
+    "english": "Polishing cloth"
+  },
+  {
+    "id": 705,
+    "german": "Polierpaste/Poliermittel",
+    "english": "Polishing paste / Compound"
+  },
+  {
+    "id": 706,
+    "german": "Blindniet",
+    "english": "Pop rivet / Blind rivet"
+  },
+  {
+    "id": 707,
+    "german": "Blindnietzange",
+    "english": "Pop rivet gun / Blind rivet pliers"
+  },
+  {
+    "id": 708,
+    "german": "potenzielle Gefahr",
+    "english": "Potential hazard"
+  },
+  {
+    "id": 709,
+    "german": "Pozidriv-Kreuzschlitzschraube",
+    "english": "Pozidriv screw"
+  },
+  {
+    "id": 710,
+    "german": "Präzisionszange",
+    "english": "Precision pliers"
+  },
+  {
+    "id": 711,
+    "german": "Einpresswerkzeug",
+    "english": "Press tool / Installation tool"
+  },
+  {
+    "id": 712,
+    "german": "Abdrückvorrichtung",
+    "english": "Press-off device"
+  },
+  {
+    "id": 713,
+    "german": "Abdrücksatz",
+    "english": "Press-off set"
+  },
+  {
+    "id": 714,
+    "german": "Pressbügel",
+    "english": "Press yoke / Frame"
+  },
+  {
+    "id": 715,
+    "german": "Druckregulierer",
+    "english": "Pressure regulator"
+  },
+  {
+    "id": 716,
+    "german": "Druckprüfer; ugs. das Manometer",
+    "english": "Pressure gauge / Manometer"
+  },
+  {
+    "id": 717,
+    "german": "Druckhülse",
+    "english": "Pressure sleeve / Thrust piece"
+  },
+  {
+    "id": 718,
+    "german": "Druckverlustprüfgerät; ugs. der Druckverlustprüfer",
+    "english": "Pressure loss tester / Leak down tester"
+  },
+  {
+    "id": 719,
+    "german": "Druckprobe/Drucktest",
+    "english": "Pressure test"
+  },
+  {
+    "id": 720,
+    "german": "(Öl-)Drucktester",
+    "english": "(Oil) Pressure tester"
+  },
+  {
+    "id": 721,
+    "german": "Mutter mit Klemmteil",
+    "english": "Prevailing torque nut"
+  },
+  {
+    "id": 722,
+    "german": "Unfallverhütung",
+    "english": "Accident prevention"
+  },
+  {
+    "id": 723,
+    "german": "Berufsgenossenschaft",
+    "english": "Professional association / Workers' compensation board"
+  },
+  {
+    "id": 724,
+    "german": "Profiwerkzeug",
+    "english": "Professional tool"
+  },
+  {
+    "id": 725,
+    "german": "Verbot",
+    "english": "Prohibition / Ban"
+  },
+  {
+    "id": 726,
+    "german": "Verbotszeichen",
+    "english": "Prohibition sign"
+  },
+  {
+    "id": 727,
+    "german": "Treibstoff",
+    "english": "Propellant / Fuel"
+  },
+  {
+    "id": 728,
+    "german": "Schutz",
+    "english": "Protection"
+  },
+  {
+    "id": 729,
+    "german": "Schutzschürze",
+    "english": "Protective apron"
+  },
+  {
+    "id": 730,
+    "german": "Schutzkleidung",
+    "english": "Protective clothing"
+  },
+  {
+    "id": 731,
+    "german": "(trennende) Schutzeinrichtung",
+    "english": "(Separating) Protective device / Guard"
+  },
+  {
+    "id": 732,
+    "german": "Schutzbacken (Pl.)",
+    "english": "Protective jaws / Vice jaws"
+  },
+  {
+    "id": 733,
+    "german": "Stemmhebel/-eisen",
+    "english": "Pry bar / Crowbar"
+  },
+  {
+    "id": 734,
+    "german": "(Innen-/Außen-)Abzieher",
+    "english": "(Internal/External) Puller"
+  },
+  {
+    "id": 735,
+    "german": "Zughülse",
+    "english": "Pull sleeve"
+  },
+  {
+    "id": 736,
+    "german": "Dorn/Lochzange",
+    "english": "Punch / Punch pliers"
+  },
+  {
+    "id": 737,
+    "german": "Einschlagbuchstabe/-n",
+    "english": "Punch letter(s)"
+  },
+  {
+    "id": 738,
+    "german": "Einschlagzahl/-en",
+    "english": "Punch number(s)"
+  },
+  {
+    "id": 739,
+    "german": "Qualitätskontrolle",
+    "english": "Quality control"
+  },
+  {
+    "id": 740,
+    "german": "Qualitätsmanagement",
+    "english": "Quality management"
+  },
+  {
+    "id": 741,
+    "german": "Anfrage",
+    "english": "Query / Inquiry"
+  },
+  {
+    "id": 742,
+    "german": "Schnellkupplung",
+    "english": "Quick coupling / Quick release"
+  },
+  {
+    "id": 743,
+    "german": "Kostenvoranschlag",
+    "english": "Quotation / Cost estimate"
+  },
+  {
+    "id": 744,
+    "german": "Exzenterschleifer",
+    "english": "Random orbital sander"
+  },
+  {
+    "id": 745,
+    "german": "Ratsche; ugs. die Knarre",
+    "english": "Ratchet"
+  },
+  {
+    "id": 746,
+    "german": "Aufsteckratsche; ugs. die Aufsteckknarre",
+    "english": "Insert ratchet / Push-on ratchet"
+  },
+  {
+    "id": 747,
+    "german": "(abwinkelbare) Ratschen-ring-Maulschlüssel",
+    "english": "(Flex-head) Ratcheting combination wrench"
+  },
+  {
+    "id": 748,
+    "german": "Ratschen-Ringschlüssel; ugs. der Knarren-Ringschlüssel",
+    "english": "Ratcheting ring wrench"
+  },
+  {
+    "id": 749,
+    "german": "Ratschenschraubendreher; ugs. der Ratschenschrauber",
+    "english": "Ratcheting screwdriver"
+  },
+  {
+    "id": 750,
+    "german": "Ratschen-Gewindeschneidkluppe",
+    "english": "Ratcheting die stock"
+  },
+  {
+    "id": 751,
+    "german": "Ratschen-Ringschlüssel",
+    "english": "Ratchet ring wrench"
+  },
+  {
+    "id": 752,
+    "german": "(OBD-/EOBD-)Auslesegerät",
+    "english": "(OBD/EOBD) Reader / Scan tool"
+  },
+  {
+    "id": 753,
+    "german": "Ablesefehler",
+    "english": "Reading error"
+  },
+  {
+    "id": 754,
+    "german": "Reibahle",
+    "english": "Reamer"
+  },
+  {
+    "id": 755,
+    "german": "Aufladen der Batterie",
+    "english": "Recharging the battery"
+  },
+  {
+    "id": 756,
+    "german": "Rekristallisationsglühen",
+    "english": "Recrystallization annealing"
+  },
+  {
+    "id": 757,
+    "german": "Wiederverwertung",
+    "english": "Recycling / Recovery"
+  },
+  {
+    "id": 758,
+    "german": "Kreislaufwirtschafts- und Abfallgesetz",
+    "english": "Recycling and Waste Management Act"
+  },
+  {
+    "id": 759,
+    "german": "(Digital-)Refraktometer",
+    "english": "(Digital) Refractometer"
+  },
+  {
+    "id": 760,
+    "german": "Zulassungspapiere (Pl.); ugs. die Fahrzeugpapiere",
+    "english": "Registration papers / Vehicle documents"
+  },
+  {
+    "id": 761,
+    "german": "(Sauerstoff-/Acetylen-)Druckminderer",
+    "english": "(Oxygen/Acetylene) Pressure regulator"
+  },
+  {
+    "id": 762,
+    "german": "Relaiszange",
+    "english": "Relay pliers"
+  },
+  {
+    "id": 763,
+    "german": "Demontagezange",
+    "english": "Removal pliers / Dismantling pliers"
+  },
+  {
+    "id": 764,
+    "german": "Reparatur/Instandsetzung",
+    "english": "Repair"
+  },
+  {
+    "id": 765,
+    "german": "Reparaturanleitung",
+    "english": "Repair manual / Instructions"
+  },
+  {
+    "id": 766,
+    "german": "Reparaturleitfaden; ugs. das Werkstatthandbuch",
+    "english": "Repair guide / Workshop manual"
+  },
+  {
+    "id": 767,
+    "german": "Reparaturauftrag",
+    "english": "Repair order"
+  },
+  {
+    "id": 768,
+    "german": "Reparaturverfahren",
+    "english": "Repair procedure / Method"
+  },
+  {
+    "id": 769,
+    "german": "Reparaturannahme",
+    "english": "Repair reception"
+  },
+  {
+    "id": 770,
+    "german": "Reparatursatz",
+    "english": "Repair kit"
+  },
+  {
+    "id": 771,
+    "german": "Werkstattinhaber/-in; ugs. der/die Werkstattchef/-in",
+    "english": "Workshop owner / Garage owner"
+  },
+  {
+    "id": 772,
+    "german": "Ersatzakku",
+    "english": "Replacement battery / Spare battery"
+  },
+  {
+    "id": 773,
+    "german": "Ersatzkopf",
+    "english": "Replacement head / Spare head"
+  },
+  {
+    "id": 774,
+    "german": "Weiterverwertung",
+    "english": "Further recycling"
+  },
+  {
+    "id": 775,
+    "german": "Nachforschung",
+    "english": "Investigation / Research"
+  },
+  {
+    "id": 776,
+    "german": "Rettungszeichen",
+    "english": "Rescue sign / Emergency sign"
+  },
+  {
+    "id": 777,
+    "german": "Rückstellwerkzeug",
+    "english": "Reset tool / Wind-back tool"
+  },
+  {
+    "id": 778,
+    "german": "Widerstandsmessung",
+    "english": "Resistance measurement"
+  },
+  {
+    "id": 779,
+    "german": "Widerstandsmessgerät/Ohmmeter",
+    "english": "Ohmmeter / Resistance meter"
+  },
+  {
+    "id": 780,
+    "german": "Widerstands-Pressschweißen",
+    "english": "Resistance pressure welding"
+  },
+  {
+    "id": 781,
+    "german": "Atemschutz/Atemschutzmaske; ugs. die Atemmaske",
+    "english": "Respiratory protection / Breathing mask"
+  },
+  {
+    "id": 782,
+    "german": "Haltehebel",
+    "english": "Retaining lever / Holding lever"
+  },
+  {
+    "id": 783,
+    "german": "Haltewerkzeug; ugs. das Fixierwerkzeug",
+    "english": "Holding tool / Retaining tool"
+  },
+  {
+    "id": 784,
+    "german": "Wiederverwendung",
+    "english": "Reuse"
+  },
+  {
+    "id": 785,
+    "german": "Drehzahlmesser",
+    "english": "Rev counter / Tachometer"
+  },
+  {
+    "id": 786,
+    "german": "(ausziehbare) Umschaltknarre",
+    "english": "(Extendable) Reversible ratchet"
+  },
+  {
+    "id": 787,
+    "german": "Fahrt",
+    "english": "Ride / Drive"
+  },
+  {
+    "id": 788,
+    "german": "Felgen-Schoneinsatz",
+    "english": "Rim protective socket"
+  },
+  {
+    "id": 789,
+    "german": "(gekröpfte) (Doppel-)Ringschlüssel",
+    "english": "(Offset) Ring wrench / Box-end wrench"
+  },
+  {
+    "id": 790,
+    "german": "Unfallrisiko",
+    "english": "Risk of accident"
+  },
+  {
+    "id": 791,
+    "german": "Quetschgefahr",
+    "english": "Risk of crushing"
+  },
+  {
+    "id": 792,
+    "german": "Probefahrt",
+    "english": "Test drive"
+  },
+  {
+    "id": 793,
+    "german": "Rollenbremsprüfstand",
+    "english": "Roller brake tester"
+  },
+  {
+    "id": 794,
+    "german": "Rollen-Leistungsprüfstand",
+    "english": "Chassis dynamometer / Rolling road"
+  },
+  {
+    "id": 795,
+    "german": "Rollnahtschweißen",
+    "english": "Roller seam welding"
+  },
+  {
+    "id": 796,
+    "german": "Dienstplan",
+    "english": "Roster / Shift schedule"
+  },
+  {
+    "id": 797,
+    "german": "Drehgriff",
+    "english": "Rotary handle"
+  },
+  {
+    "id": 798,
+    "german": "Drehwinkel-Messgerät",
+    "english": "Rotation angle gauge / Goniometer"
+  },
+  {
+    "id": 799,
+    "german": "Grobreinigungsscheibe",
+    "english": "Rough cleaning disc / Stripping disc"
+  },
+  {
+    "id": 800,
+    "german": "Rundschlinge",
+    "english": "Round sling"
+  },
+  {
+    "id": 801,
+    "german": "Rundstahlkette",
+    "english": "Round steel chain"
+  },
+  {
+    "id": 802,
+    "german": "Gummi",
+    "english": "Rubber"
+  },
+  {
+    "id": 803,
+    "german": "gummibeschichtete Auflage",
+    "english": "Rubber-coated pad"
+  },
+  {
+    "id": 804,
+    "german": "Arbeitsschutzvorschrift",
+    "english": "Safety regulation"
+  },
+  {
+    "id": 805,
+    "german": "(Karosserie-)Stichsäge",
+    "english": "(Body) Saber saw / Reciprocating saw"
+  },
+  {
+    "id": 806,
+    "german": "gefahrlose Bereich",
+    "english": "Safe area / Danger-free zone"
+  },
+  {
+    "id": 807,
+    "german": "Rückhaltesystem",
+    "english": "Restraint system"
+  },
+  {
+    "id": 808,
+    "german": "Sicherheitsschuh; ugs. der Arbeitsschuh",
+    "english": "Safety shoe / Safety boot"
+  },
+  {
+    "id": 809,
+    "german": "Sicherheitsfarbe",
+    "english": "Safety color"
+  },
+  {
+    "id": 810,
+    "german": "Gefahrlosigkeit",
+    "english": "Safety / Absence of danger"
+  },
+  {
+    "id": 811,
+    "german": "Sicherheitsdatenblatt",
+    "english": "Safety Data Sheet (SDS)"
+  },
+  {
+    "id": 812,
+    "german": "Sicherheitseinrichtung",
+    "english": "Safety device / Safety equipment"
+  },
+  {
+    "id": 813,
+    "german": "Sicherheits-/Schutzhandschuh",
+    "english": "Safety glove"
+  },
+  {
+    "id": 814,
+    "german": "Auffanggurt",
+    "english": "Safety harness"
+  },
+  {
+    "id": 815,
+    "german": "Sicherheitszeichen",
+    "english": "Safety sign"
+  },
+  {
+    "id": 816,
+    "german": "Warnschutzweste",
+    "english": "High-visibility vest / Safety vest"
+  },
+  {
+    "id": 817,
+    "german": "Verkäufer/-in",
+    "english": "Salesperson"
+  },
+  {
+    "id": 818,
+    "german": "Sandstrahlpistole",
+    "english": "Sandblasting gun"
+  },
+  {
+    "id": 819,
+    "german": "Sandstrahlgerät",
+    "english": "Sandblaster / Sandblasting unit"
+  },
+  {
+    "id": 820,
+    "german": "Schwingschleifer",
+    "english": "Orbital sander"
+  },
+  {
+    "id": 821,
+    "german": "Säge",
+    "english": "Saw"
+  },
+  {
+    "id": 822,
+    "german": "Sägeblatt",
+    "english": "Saw blade"
+  },
+  {
+    "id": 823,
+    "german": "Zeitplan",
+    "english": "Schedule / Timetable"
+  },
+  {
+    "id": 824,
+    "german": "Scheren-Wagenheber",
+    "english": "Scissor jack"
+  },
+  {
+    "id": 825,
+    "german": "Scheren-Hebebühne/Scherenhubtisch",
+    "english": "Scissor lift"
+  },
+  {
+    "id": 826,
+    "german": "(Universal-)Schaber/Spachtel",
+    "english": "(Universal) Scraper / Spatula"
+  },
+  {
+    "id": 827,
+    "german": "Altmetall; ugs. der Schrott",
+    "english": "Scrap metal"
+  },
+  {
+    "id": 828,
+    "german": "Schraube",
+    "english": "Screw / Bolt"
+  },
+  {
+    "id": 829,
+    "german": "(Winkel-)Schraubendreher; ugs. der Schraubenzieher",
+    "english": "(Offset) Screwdriver"
+  },
+  {
+    "id": 830,
+    "german": "Schraubendrehereinsatz; ugs. der Bit",
+    "english": "Screwdriver bit"
+  },
+  {
+    "id": 831,
+    "german": "Schraubendrehergriff",
+    "english": "Screwdriver handle"
+  },
+  {
+    "id": 832,
+    "german": "Schlitz(kopf)schraubendreher",
+    "english": "Slotted screwdriver / Flat-head screwdriver"
+  },
+  {
+    "id": 833,
+    "german": "Schraubendreher mit magnetischem Kopf",
+    "english": "Magnetic screwdriver"
+  },
+  {
+    "id": 834,
+    "german": "Schraubendreher mit Kreuzschlitzkopf",
+    "english": "Phillips screwdriver"
+  },
+  {
+    "id": 835,
+    "german": "Schraubendreher mit Torxkopf",
+    "english": "Torx screwdriver"
+  },
+  {
+    "id": 836,
+    "german": "Schraubenausdreher",
+    "english": "Screw extractor"
+  },
+  {
+    "id": 837,
+    "german": "Schraubenkopf",
+    "english": "Screw head"
+  },
+  {
+    "id": 838,
+    "german": "Schraubensicherung",
+    "english": "Screw locking / Threadlocker"
+  },
+  {
+    "id": 839,
+    "german": "Schneideisen/-kluppe",
+    "english": "Die / Die stock"
+  },
+  {
+    "id": 840,
+    "german": "Dichtring",
+    "english": "Sealing ring / Gasket"
+  },
+  {
+    "id": 841,
+    "german": "Dichtband",
+    "english": "Sealing tape / Teflon tape"
+  },
+  {
+    "id": 842,
+    "german": "Autositz-Schonbezug; ugs. der Sitzschoner",
+    "english": "Seat cover / Protective seat cover"
+  },
+  {
+    "id": 843,
+    "german": "Mittelschneider",
+    "english": "Second tap / Intermediate tap"
+  },
+  {
+    "id": 844,
+    "german": "Sicherheitsprüfung",
+    "english": "Safety check / Inspection"
+  },
+  {
+    "id": 845,
+    "german": "Selbstdiagnose/Eigendiagnose",
+    "english": "Self-diagnosis"
+  },
+  {
+    "id": 846,
+    "german": "selbstentzündliche Stoff",
+    "english": "Spontaneously combustible substance"
+  },
+  {
+    "id": 847,
+    "german": "selbstsichernde Mutter",
+    "english": "Self-locking nut"
+  },
+  {
+    "id": 848,
+    "german": "Sensor",
+    "english": "Sensor"
+  },
+  {
+    "id": 849,
+    "german": "Sensor-Simulator",
+    "english": "Sensor simulator"
+  },
+  {
+    "id": 850,
+    "german": "Trennwerkzeug",
+    "english": "Separating tool / Separator"
+  },
+  {
+    "id": 851,
+    "german": "Fächerscheibe",
+    "english": "Flap disc / Fan disc"
+  },
+  {
+    "id": 852,
+    "german": "Sperrzahnschraube",
+    "english": "Locking tooth screw"
+  },
+  {
+    "id": 853,
+    "german": "Kundendienst/Wartung",
+    "english": "Customer service / Maintenance"
+  },
+  {
+    "id": 854,
+    "german": "Kundendienstberater/-in",
+    "english": "Service advisor"
+  },
+  {
+    "id": 855,
+    "german": "Service- und Recyclingstation",
+    "english": "Service and recycling station"
+  },
+  {
+    "id": 856,
+    "german": "Serviceleiter/-in",
+    "english": "Service manager"
+  },
+  {
+    "id": 857,
+    "german": "Tankstelle",
+    "english": "Service station / Gas station"
+  },
+  {
+    "id": 858,
+    "german": "Annahmemeister/-in",
+    "english": "Service reception master"
+  },
+  {
+    "id": 859,
+    "german": "Satz/Set",
+    "english": "Set / Kit"
+  },
+  {
+    "id": 860,
+    "german": "Richtwinkelsatz",
+    "english": "Set square set / Alignment set"
+  },
+  {
+    "id": 861,
+    "german": "Einstelllehre",
+    "english": "Setting gauge"
+  },
+  {
+    "id": 862,
+    "german": "stark wassergefährdend(-e/-er/-es)",
+    "english": "Severely hazardous to water"
+  },
+  {
+    "id": 863,
+    "german": "Blechlehre",
+    "english": "Sheet metal gauge"
+  },
+  {
+    "id": 864,
+    "german": "Blech(schal)bohrer; ugs. der Schalbohrer",
+    "english": "Step drill / Sheet metal drill"
+  },
+  {
+    "id": 865,
+    "german": "Blechschere",
+    "english": "Tin snips / Shears"
+  },
+  {
+    "id": 866,
+    "german": "Blechschraube",
+    "english": "Self-tapping screw / Sheet metal screw"
+  },
+  {
+    "id": 867,
+    "german": "Schwingungsdämpfer-Werkzeugsatz",
+    "english": "Shock absorber tool kit"
+  },
+  {
+    "id": 868,
+    "german": "Schocktester/Stoßtester",
+    "english": "Shock tester"
+  },
+  {
+    "id": 869,
+    "german": "Werkstatthandbuch",
+    "english": "Workshop manual"
+  },
+  {
+    "id": 870,
+    "german": "Kurzarm-T-Shirt",
+    "english": "Short-sleeve T-shirt"
+  },
+  {
+    "id": 871,
+    "german": "Dusche",
+    "english": "Shower"
+  },
+  {
+    "id": 872,
+    "german": "Ausstellungsraum",
+    "english": "Showroom"
+  },
+  {
+    "id": 873,
+    "german": "Seitenschneider",
+    "english": "Side cutters"
+  },
+  {
+    "id": 874,
+    "german": "deutlich wassergefährdend(-e/-er/-es)",
+    "english": "Significantly hazardous to water"
+  },
+  {
+    "id": 875,
+    "german": "Facharbeiter/-in",
+    "english": "Skilled worker"
+  },
+  {
+    "id": 876,
+    "german": "Hautschutzmittel",
+    "english": "Skin protection agent"
+  },
+  {
+    "id": 877,
+    "german": "Vorschlaghammer",
+    "english": "Sledgehammer"
+  },
+  {
+    "id": 878,
+    "german": "Schieblehre",
+    "english": "Vernier caliper"
+  },
+  {
+    "id": 879,
+    "german": "Gleithammer(auszieher); ugs. der Schlagauszieher",
+    "english": "Slide hammer (puller)"
+  },
+  {
+    "id": 880,
+    "german": "Quergriff mit Gleitstück",
+    "english": "Sliding T-handle"
+  },
+  {
+    "id": 881,
+    "german": "schwach wassergefährdend(-e/-er/-es)",
+    "english": "Slightly hazardous to water"
+  },
+  {
+    "id": 882,
+    "german": "verstellbare Zange",
+    "english": "Adjustable pliers / Water pump pliers"
+  },
+  {
+    "id": 883,
+    "german": "Karosserie(trenn)meißel",
+    "english": "Slitting chisel / Body chisel"
+  },
+  {
+    "id": 884,
+    "german": "Arbeitskittel",
+    "english": "Smock / Work coat"
+  },
+  {
+    "id": 885,
+    "german": "Rauch; ugs. der Qualm",
+    "english": "Smoke / Fumes"
+  },
+  {
+    "id": 886,
+    "german": "Rauchdichtemessung",
+    "english": "Smoke opacity measurement"
+  },
+  {
+    "id": 887,
+    "german": "Rauchmelder",
+    "english": "Smoke detector"
+  },
+  {
+    "id": 888,
+    "german": "Rauchgastester",
+    "english": "Flue gas analyzer"
+  },
+  {
+    "id": 889,
+    "german": "Sicherungsringzange; ugs. die Sprengringzange",
+    "english": "Snap ring pliers / Circlip pliers"
+  },
+  {
+    "id": 890,
+    "german": "(ideale) Handblechschere",
+    "english": "(Ideal) Tin snips / Aviation snips"
+  },
+  {
+    "id": 891,
+    "german": "Stecknuss",
+    "english": "Socket"
+  },
+  {
+    "id": 892,
+    "german": "Steckschlüssel",
+    "english": "Socket wrench"
+  },
+  {
+    "id": 893,
+    "german": "Steckschlüsseleinsatz",
+    "english": "Socket insert / Socket"
+  },
+  {
+    "id": 894,
+    "german": "Schonhammer",
+    "english": "Soft-face hammer / Mallet"
+  },
+  {
+    "id": 895,
+    "german": "Softshelljacke",
+    "english": "Softshell jacket"
+  },
+  {
+    "id": 896,
+    "german": "Lot",
+    "english": "Solder / Plumb bob"
+  },
+  {
+    "id": 897,
+    "german": "Weichlot",
+    "english": "Soft solder"
+  },
+  {
+    "id": 898,
+    "german": "Lötzinn",
+    "english": "Solder tin"
+  },
+  {
+    "id": 899,
+    "german": "Lötpistole",
+    "english": "Soldering gun"
+  },
+  {
+    "id": 900,
+    "german": "Lötkolben",
+    "english": "Soldering iron"
+  },
+  {
+    "id": 901,
+    "german": "Lötpaste",
+    "english": "Soldering paste"
+  },
+  {
+    "id": 902,
+    "german": "Lösungsmittelkleber",
+    "english": "Solvent adhesive"
+  },
+  {
+    "id": 903,
+    "german": "Quelle/Ursprung",
+    "english": "Source / Origin"
+  },
+  {
+    "id": 904,
+    "german": "(Schrauben-)Schlüssel",
+    "english": "Wrench / Spanner"
+  },
+  {
+    "id": 905,
+    "german": "Ersatzteil",
+    "english": "Spare part"
+  },
+  {
+    "id": 906,
+    "german": "Ersatzteillager",
+    "english": "Spare parts warehouse"
+  },
+  {
+    "id": 907,
+    "german": "Ersatzteilservice",
+    "english": "Spare parts service"
+  },
+  {
+    "id": 908,
+    "german": "Zündkerzenstecker-Abzieher",
+    "english": "Spark plug connector puller"
+  },
+  {
+    "id": 909,
+    "german": "Zündkerzenbürste",
+    "english": "Spark plug brush"
+  },
+  {
+    "id": 910,
+    "german": "Zündkerzensteckerzange",
+    "english": "Spark plug boot pliers"
+  },
+  {
+    "id": 911,
+    "german": "Zündkerzenschlüssel/Zündkerzenstecknuss; ugs. der Zündkerzeneinsatz",
+    "english": "Spark plug wrench / Socket"
+  },
+  {
+    "id": 912,
+    "german": "Zündkerzengewinde-Reparatursatz",
+    "english": "Spark plug thread repair kit"
+  },
+  {
+    "id": 913,
+    "german": "Spezialschlüssel",
+    "english": "Special wrench / Spanner"
+  },
+  {
+    "id": 914,
+    "german": "Spezial-/Sonderwerkzeug",
+    "english": "Special tool"
+  },
+  {
+    "id": 915,
+    "german": "Sonderabfall",
+    "english": "Special waste / Hazardous waste"
+  },
+  {
+    "id": 916,
+    "german": "Spindel",
+    "english": "Spindle"
+  },
+  {
+    "id": 917,
+    "german": "Steckgriff mit Vierkant",
+    "english": "Spinner handle / Drive handle"
+  },
+  {
+    "id": 918,
+    "german": "Spiralschlauch",
+    "english": "Spiral hose"
+  },
+  {
+    "id": 919,
+    "german": "Wasserwaage",
+    "english": "Spirit level"
+  },
+  {
+    "id": 920,
+    "german": "Splint",
+    "english": "Split pin / Cotter pin"
+  },
+  {
+    "id": 921,
+    "german": "Punktschweißkleben",
+    "english": "Spot weld bonding"
+  },
+  {
+    "id": 922,
+    "german": "Schweißpunktfräser",
+    "english": "Spot weld cutter / Drill"
+  },
+  {
+    "id": 923,
+    "german": "Punktschweiß(-Grip)zange",
+    "english": "Spot welding (locking) pliers"
+  },
+  {
+    "id": 924,
+    "german": "Sprühflasche",
+    "english": "Spray bottle"
+  },
+  {
+    "id": 925,
+    "german": "Sprühpistole",
+    "english": "Spray gun"
+  },
+  {
+    "id": 926,
+    "german": "Spreizer",
+    "english": "Spreader"
+  },
+  {
+    "id": 927,
+    "german": "Feder(bein)spanner",
+    "english": "Spring compressor (Strut)"
+  },
+  {
+    "id": 928,
+    "german": "Federhalter",
+    "english": "Spring retainer"
+  },
+  {
+    "id": 929,
+    "german": "Federtellerzange",
+    "english": "Spring plate pliers"
+  },
+  {
+    "id": 930,
+    "german": "Federsplint",
+    "english": "Spring cotter pin / R-clip"
+  },
+  {
+    "id": 931,
+    "german": "Federprüfgerät",
+    "english": "Spring tester"
+  },
+  {
+    "id": 932,
+    "german": "Federscheibe/Federring",
+    "english": "Spring washer"
+  },
+  {
+    "id": 933,
+    "german": "Sprinkleranlage",
+    "english": "Sprinkler system"
+  },
+  {
+    "id": 934,
+    "german": "Vierkant",
+    "english": "Square drive / Square"
+  },
+  {
+    "id": 935,
+    "german": "Vierkantdraht",
+    "english": "Square wire"
+  },
+  {
+    "id": 936,
+    "german": "Vierkantsteckschlüssel/Vierkant-Ringschlüssel",
+    "english": "Square socket key / Square ring wrench"
+  },
+  {
+    "id": 937,
+    "german": "Mitarbeiter/-in",
+    "english": "Staff member / Employee"
+  },
+  {
+    "id": 938,
+    "german": "Personaleingang",
+    "english": "Staff entrance"
+  },
+  {
+    "id": 939,
+    "german": "Stahlbürste",
+    "english": "Steel brush / Wire brush"
+  },
+  {
+    "id": 940,
+    "german": "Stahlmaßstab; ugs. das Stahllineal",
+    "english": "Steel ruler / Scale"
+  },
+  {
+    "id": 941,
+    "german": "Stahldrahtseil",
+    "english": "Steel wire rope"
+  },
+  {
+    "id": 942,
+    "german": "Lenkradschoner",
+    "english": "Steering wheel cover"
+  },
+  {
+    "id": 943,
+    "german": "Stufenbohrer",
+    "english": "Step drill"
+  },
+  {
+    "id": 944,
+    "german": "(elektronische) Stethoskop",
+    "english": "(Electronic) Stethoscope"
+  },
+  {
+    "id": 945,
+    "german": "Durchlaufschere",
+    "english": "Continuous shears / Aviation snips"
+  },
+  {
+    "id": 946,
+    "german": "Haarlineal",
+    "english": "Straightedge / Knife-edge ruler"
+  },
+  {
+    "id": 947,
+    "german": "Richtsystem",
+    "english": "Straightening system / Bench"
+  },
+  {
+    "id": 948,
+    "german": "gerade Schere",
+    "english": "Straight shears"
+  },
+  {
+    "id": 949,
+    "german": "Bandschlüssel",
+    "english": "Strap wrench"
+  },
+  {
+    "id": 950,
+    "german": "Spannungsarmglühen",
+    "english": "Stress relief annealing"
+  },
+  {
+    "id": 951,
+    "german": "Krankentrage",
+    "english": "Stretcher"
+  },
+  {
+    "id": 952,
+    "german": "Kabelmesser",
+    "english": "Cable knife / Stripping knife"
+  },
+  {
+    "id": 953,
+    "german": "Abisolierzange",
+    "english": "Wire strippers / Stripping pliers"
+  },
+  {
+    "id": 954,
+    "german": "Stiftschraube",
+    "english": "Stud / Stud bolt"
+  },
+  {
+    "id": 955,
+    "german": "(feste/flüssige/gasförmige) Stoff",
+    "english": "(Solid/Liquid/Gaseous) Substance"
+  },
+  {
+    "id": 956,
+    "german": "Saugbürste",
+    "english": "Suction brush"
+  },
+  {
+    "id": 957,
+    "german": "Gummisauger",
+    "english": "Suction cup"
+  },
+  {
+    "id": 958,
+    "german": "Absauggerät",
+    "english": "Suction unit / Extraction unit"
+  },
+  {
+    "id": 959,
+    "german": "Ansaugglocke mit Sieb",
+    "english": "Suction strainer"
+  },
+  {
+    "id": 960,
+    "german": "Ergänzungswerkzeug",
+    "english": "Supplementary tool"
+  },
+  {
+    "id": 961,
+    "german": "Tragarm",
+    "english": "Support arm"
+  },
+  {
+    "id": 962,
+    "german": "Sachverständigengutachten; ugs. das Schaden(s)gutachten",
+    "english": "Expert opinion / Damage report"
+  },
+  {
+    "id": 963,
+    "german": "schwebende Last",
+    "english": "Suspended load"
+  },
+  {
+    "id": 964,
+    "german": "Schwenkarmkran",
+    "english": "Swivel arm crane / Jib crane"
+  },
+  {
+    "id": 965,
+    "german": "Ablassschlauch",
+    "english": "Drain hose"
+  },
+  {
+    "id": 966,
+    "german": "Sicherungsblech",
+    "english": "Locking plate / Tab washer"
+  },
+  {
+    "id": 967,
+    "german": "Diagrammscheibe",
+    "english": "Tachograph disc"
+  },
+  {
+    "id": 968,
+    "german": "Gewindebohrer",
+    "english": "Tap (Thread)"
+  },
+  {
+    "id": 969,
+    "german": "Gewindeschneidzeug",
+    "english": "Tap and die set"
+  },
+  {
+    "id": 970,
+    "german": "Klebeband",
+    "english": "Adhesive tape / Tape"
+  },
+  {
+    "id": 971,
+    "german": "(Roll-)Bandmaß",
+    "english": "Tape measure"
+  },
+  {
+    "id": 972,
+    "german": "Vorschneider",
+    "english": "Taper tap"
+  },
+  {
+    "id": 973,
+    "german": "Windeisen",
+    "english": "Tap wrench"
+  },
+  {
+    "id": 974,
+    "german": "technischen Unterlage",
+    "english": "Technical document"
+  },
+  {
+    "id": 975,
+    "german": "Facharbeiter/-in/Techniker/-in",
+    "english": "Technician / Skilled worker"
+  },
+  {
+    "id": 976,
+    "german": "T-Griff",
+    "english": "T-handle"
+  },
+  {
+    "id": 977,
+    "german": "Telefon",
+    "english": "Telephone"
+  },
+  {
+    "id": 978,
+    "german": "Telefonzange",
+    "english": "Telephone pliers / Long-nose pliers"
+  },
+  {
+    "id": 979,
+    "german": "Teleskopauszug",
+    "english": "Telescopic extension"
+  },
+  {
+    "id": 980,
+    "german": "Teleskopstange",
+    "english": "Telescopic rod / Pole"
+  },
+  {
+    "id": 981,
+    "german": "(niedrige/hohe) Temperatur",
+    "english": "(Low/High) Temperature"
+  },
+  {
+    "id": 982,
+    "german": "Spannapparat",
+    "english": "Tensioning device"
+  },
+  {
+    "id": 983,
+    "german": "Spannmutter",
+    "english": "Clamping nut / Tension nut"
+  },
+  {
+    "id": 984,
+    "german": "Prüfadapter",
+    "english": "Test adapter"
+  },
+  {
+    "id": 985,
+    "german": "Prüf- und Messgerät",
+    "english": "Test and measurement equipment"
+  },
+  {
+    "id": 986,
+    "german": "(LED-)Prüflampe",
+    "english": "(LED) Test lamp"
+  },
+  {
+    "id": 987,
+    "german": "Messleitung",
+    "english": "Test lead"
+  },
+  {
+    "id": 988,
+    "german": "Spannungsprüfer/Phasenprüfer",
+    "english": "Voltage tester"
+  },
+  {
+    "id": 989,
+    "german": "Prüfmarke/-plakette",
+    "english": "Test badge / Inspection sticker"
+  },
+  {
+    "id": 990,
+    "german": "Prüfspitze",
+    "english": "Test probe / Prod"
+  },
+  {
+    "id": 991,
+    "german": "T-Griff-Ratsche",
+    "english": "T-handle ratchet"
+  },
+  {
+    "id": 992,
+    "german": "Temperaturmessgerät; ugs. das Thermometer",
+    "english": "Thermometer / Temperature gauge"
+  },
+  {
+    "id": 993,
+    "german": "Thermoplast",
+    "english": "Thermoplastic"
+  },
+  {
+    "id": 994,
+    "german": "(Links-/Rechts-)Gewinde",
+    "english": "(Left/Right)-hand thread"
+  },
+  {
+    "id": 995,
+    "german": "Gewindeschneider",
+    "english": "Thread cutter"
+  },
+  {
+    "id": 996,
+    "german": "Gewindeschneid satz",
+    "english": "Thread cutting set"
+  },
+  {
+    "id": 997,
+    "german": "Gewindehülse",
+    "english": "Threaded sleeve / Bushing"
+  },
+  {
+    "id": 998,
+    "german": "Gewindefeile",
+    "english": "Thread file"
+  },
+  {
+    "id": 999,
+    "german": "Gewindeflanke",
+    "english": "Thread flank"
+  },
+  {
+    "id": 1000,
+    "german": "Gewindegrenzlehrdorn",
+    "english": "Thread plug gauge"
+  },
+  {
+    "id": 1001,
+    "german": "Gewindeeinsatz",
+    "english": "Thread insert / Helicoil"
+  },
+  {
+    "id": 1002,
+    "german": "Gewindesteigung",
+    "english": "Thread pitch"
+  },
+  {
+    "id": 1003,
+    "german": "Gewindereparatursatz",
+    "english": "Thread repair kit"
+  },
+  {
+    "id": 1004,
+    "german": "Gewindereparaturwerkzeug; ugs. der Gewindenachschneider",
+    "english": "Thread restorer / Chaser"
+  },
+  {
+    "id": 1005,
+    "german": "Gewindebezeichnung",
+    "english": "Thread designation"
+  },
+  {
+    "id": 1006,
+    "german": "Kugelgelenk-Trenn- und Montagegabel",
+    "english": "Ball joint separator fork"
+  },
+  {
+    "id": 1007,
+    "german": "Anzugsdrehmoment",
+    "english": "Tightening torque"
+  },
+  {
+    "id": 1008,
+    "german": "Zahnriemenspanner",
+    "english": "Timing belt tensioner"
+  },
+  {
+    "id": 1009,
+    "german": "(digitale) Zündlichtpistole",
+    "english": "(Digital) Timing light"
+  },
+  {
+    "id": 1010,
+    "german": "Toilette; ugs. das WC",
+    "english": "Toilet / Restroom"
+  },
+  {
+    "id": 1011,
+    "german": "Werkzeug",
+    "english": "Tool"
+  },
+  {
+    "id": 1012,
+    "german": "Werkzeugkasten; ugs. der Werkzeugkoffer",
+    "english": "Toolbox / Tool case"
+  },
+  {
+    "id": 1013,
+    "german": "Werkzeugschrank; ugs. die Werkzeug-Lochwand",
+    "english": "Tool cabinet / Tool board"
+  },
+  {
+    "id": 1014,
+    "german": "Werkzeugsatz",
+    "english": "Tool set / Kit"
+  },
+  {
+    "id": 1015,
+    "german": "Werkzeugmagazin",
+    "english": "Tool magazine / Store"
+  },
+  {
+    "id": 1016,
+    "german": "Werkzeuggeschwindigkeit",
+    "english": "Tool speed"
+  },
+  {
+    "id": 1017,
+    "german": "Werkzeuglager",
+    "english": "Tool storage / Crib"
+  },
+  {
+    "id": 1018,
+    "german": "Werkzeugwagen(einlage)",
+    "english": "Tool trolley (insert)"
+  },
+  {
+    "id": 1019,
+    "german": "Zahnriemenspannungsprüfer",
+    "english": "Timing belt tension tester"
+  },
+  {
+    "id": 1020,
+    "german": "Zahnscheibe",
+    "english": "Toothed lock washer"
+  },
+  {
+    "id": 1021,
+    "german": "Drehmomentadapter",
+    "english": "Torque adapter"
+  },
+  {
+    "id": 1022,
+    "german": "Drehmoment-Vervielfältiger; ugs. der Drehmomentverstärker",
+    "english": "Torque multiplier"
+  },
+  {
+    "id": 1023,
+    "german": "Drehmomentschrauber",
+    "english": "Torque screwdriver"
+  },
+  {
+    "id": 1024,
+    "german": "(digitale/analoge) Drehmomentschlüssel",
+    "english": "(Digital/Analog) Torque wrench"
+  },
+  {
+    "id": 1025,
+    "german": "Torsionsstab",
+    "english": "Torsion bar"
+  },
+  {
+    "id": 1026,
+    "german": "Torx-Werkzeugsortiment",
+    "english": "Torx tool set"
+  },
+  {
+    "id": 1027,
+    "german": "(un)giftige Stoff",
+    "english": "(Non-) Toxic substance"
+  },
+  {
+    "id": 1028,
+    "german": "Giftigkeit",
+    "english": "Toxicity"
+  },
+  {
+    "id": 1029,
+    "german": "Handwerk",
+    "english": "Trade / Craft"
+  },
+  {
+    "id": 1030,
+    "german": "Anhängersteckdosen-Prüfer",
+    "english": "Trailer socket tester"
+  },
+  {
+    "id": 1031,
+    "german": "Ausbildungszentrum",
+    "english": "Training center"
+  },
+  {
+    "id": 1032,
+    "german": "Umfüllpumpe",
+    "english": "Transfer pump"
+  },
+  {
+    "id": 1033,
+    "german": "Getriebeheber",
+    "english": "Transmission jack"
+  },
+  {
+    "id": 1034,
+    "german": "Tri-Wing-Schraubendreher",
+    "english": "Tri-wing screwdriver"
+  },
+  {
+    "id": 1035,
+    "german": "Transportwagen",
+    "english": "Transport trolley"
+  },
+  {
+    "id": 1036,
+    "german": "Problem",
+    "english": "Problem / Issue"
+  },
+  {
+    "id": 1037,
+    "german": "Fehlercode",
+    "english": "Fault code / Error code"
+  },
+  {
+    "id": 1038,
+    "german": "Fehlerdiagnose/Fehlersuche",
+    "english": "Troubleshooting / Diagnosis"
+  },
+  {
+    "id": 1039,
+    "german": "Winkellehre 90°; ugs. der Flachwinkel",
+    "english": "Square (90°) / Try square"
+  },
+  {
+    "id": 1040,
+    "german": "Rohrbiegegerät",
+    "english": "Tube bender / Pipe bender"
+  },
+  {
+    "id": 1041,
+    "german": "Rohraufweiter",
+    "english": "Pipe expander"
+  },
+  {
+    "id": 1042,
+    "german": "Wolframschutzgasschweißen",
+    "english": "Tungsten Inert Gas (TIG) welding"
+  },
+  {
+    "id": 1043,
+    "german": "Öffnen durch Rechtsdrehung",
+    "english": "Turn right to open (Left-hand thread)"
+  },
+  {
+    "id": 1044,
+    "german": "Spiralbohrer",
+    "english": "Twist drill"
+  },
+  {
+    "id": 1045,
+    "german": "Zweisäulen-Hebebühne",
+    "english": "Two-post lift"
+  },
+  {
+    "id": 1046,
+    "german": "Zweistempel-Hebebühne",
+    "english": "Two-post hydraulic lift (Ram lift)"
+  },
+  {
+    "id": 1047,
+    "german": "Reifenwulst-Niederhalter",
+    "english": "Tire bead depressor / Holder"
+  },
+  {
+    "id": 1048,
+    "german": "Reifen-Montagepaste",
+    "english": "Tire mounting paste"
+  },
+  {
+    "id": 1049,
+    "german": "Reifenmontierbetrieb",
+    "english": "Tire fitting shop"
+  },
+  {
+    "id": 1050,
+    "german": "Reifen(de)montiergerät",
+    "english": "Tire changer"
+  },
+  {
+    "id": 1051,
+    "german": "Reifenfüllpistole; ugs. der Reifenfüller",
+    "english": "Tire inflator"
+  },
+  {
+    "id": 1052,
+    "german": "Reifenfüllschlauch",
+    "english": "Tire inflation hose"
+  },
+  {
+    "id": 1053,
+    "german": "Reifenkontrolle/Reifenprüfung",
+    "english": "Tire inspection"
+  },
+  {
+    "id": 1054,
+    "german": "Reifenmontierhebel; ugs. das Reifenmontiereisen",
+    "english": "Tire lever / Tire iron"
+  },
+  {
+    "id": 1055,
+    "german": "Reifenhersteller",
+    "english": "Tire manufacturer"
+  },
+  {
+    "id": 1056,
+    "german": "Reifenmontierpaste",
+    "english": "Tire mounting paste"
+  },
+  {
+    "id": 1057,
+    "german": "Reifendruck-Prüfer",
+    "english": "Tire pressure gauge"
+  },
+  {
+    "id": 1058,
+    "german": "Reifendruckmessung",
+    "english": "Tire pressure measurement"
+  },
+  {
+    "id": 1059,
+    "german": "Reifendienst",
+    "english": "Tire service"
+  },
+  {
+    "id": 1060,
+    "german": "automatische Reifenprofilmessung",
+    "english": "Automatic tire tread measurement"
+  },
+  {
+    "id": 1061,
+    "german": "Reifenprofil-Messschieber",
+    "english": "Tire tread depth gauge"
+  },
+  {
+    "id": 1062,
+    "german": "Reifenventilschneider",
+    "english": "Tire valve cutter / Repair tool"
+  },
+  {
+    "id": 1063,
+    "german": "(un)autorisierte Person",
+    "english": "(Un)authorized person"
+  },
+  {
+    "id": 1064,
+    "german": "Überwurfmutter",
+    "english": "Union nut / Cap nut"
+  },
+  {
+    "id": 1065,
+    "german": "Kardangelenk",
+    "english": "Universal joint / U-joint"
+  },
+  {
+    "id": 1066,
+    "german": "Gelenkeinsatz",
+    "english": "Universal joint socket"
+  },
+  {
+    "id": 1067,
+    "german": "Entriegelungswerkzeug",
+    "english": "Unlock tool / Release tool"
+  },
+  {
+    "id": 1068,
+    "german": "Ausdrehvorrichtung",
+    "english": "Unscrewing device"
+  },
+  {
+    "id": 1069,
+    "german": "Ausdrehsatz",
+    "english": "Extractor set"
+  },
+  {
+    "id": 1070,
+    "german": "Altbatterie",
+    "english": "Used battery / Waste battery"
+  },
+  {
+    "id": 1071,
+    "german": "Altölbehälter",
+    "english": "Waste oil container"
+  },
+  {
+    "id": 1072,
+    "german": "Altreifen",
+    "english": "Used tire / Scrap tire"
+  },
+  {
+    "id": 1073,
+    "german": "Gebrauchtfahrzeug; ugs. der Gebrauchtwagen",
+    "english": "Used vehicle / Second-hand car"
+  },
+  {
+    "id": 1074,
+    "german": "Vakuumpumpe",
+    "english": "Vacuum pump"
+  },
+  {
+    "id": 1075,
+    "german": "(Sauerstoff-/Acetylen-)Ventil",
+    "english": "(Oxygen/Acetylene) Valve"
+  },
+  {
+    "id": 1076,
+    "german": "Ventileinziehwerkzeug; ugs. die Ventilzange",
+    "english": "Valve installation tool / Puller"
+  },
+  {
+    "id": 1077,
+    "german": "Ventil-Montagesatz",
+    "english": "Valve mounting kit"
+  },
+  {
+    "id": 1078,
+    "german": "Ventil-Ziehgerät",
+    "english": "Valve puller"
+  },
+  {
+    "id": 1079,
+    "german": "Ventileinsatz-Dreher; ugs. der Ventilausdreher",
+    "english": "Valve core remover"
+  },
+  {
+    "id": 1080,
+    "german": "Ventileinschleifwerkzeug; ugs. der Ventillapper",
+    "english": "Valve lapping tool"
+  },
+  {
+    "id": 1081,
+    "german": "Ventilfeder-Spanner",
+    "english": "Valve spring compressor"
+  },
+  {
+    "id": 1082,
+    "german": "Ventilschaftdichtring-Zange",
+    "english": "Valve stem seal pliers"
+  },
+  {
+    "id": 1083,
+    "german": "Ventilwerkzeug",
+    "english": "Valve tool"
+  },
+  {
+    "id": 1084,
+    "german": "Fahrzeugabnahme",
+    "english": "Vehicle acceptance / Inspection"
+  },
+  {
+    "id": 1085,
+    "german": "Fahrzeugdaten",
+    "english": "Vehicle data"
+  },
+  {
+    "id": 1086,
+    "german": "Fahrzeugauslieferung",
+    "english": "Vehicle delivery"
+  },
+  {
+    "id": 1087,
+    "german": "Fahrzeugdiagnose",
+    "english": "Vehicle diagnostics"
+  },
+  {
+    "id": 1088,
+    "german": "Fahrzeughöhe",
+    "english": "Vehicle height"
+  },
+  {
+    "id": 1089,
+    "german": "Fahrzeugschein",
+    "english": "Vehicle registration document"
+  },
+  {
+    "id": 1090,
+    "german": "Fahrzeugidentifikationsnummer",
+    "english": "Vehicle Identification Number (VIN)"
+  },
+  {
+    "id": 1091,
+    "german": "Fahrzeuggeräusch",
+    "english": "Vehicle noise"
+  },
+  {
+    "id": 1092,
+    "german": "Fahrzeugeigentümer; ugs. der Fahrzeughalter",
+    "english": "Vehicle owner / Registered keeper"
+  },
+  {
+    "id": 1093,
+    "german": "Fahrzeugaufbereitung",
+    "english": "Vehicle detailing / Valeting"
+  },
+  {
+    "id": 1094,
+    "german": "Fahrzeugbreite",
+    "english": "Vehicle width"
+  },
+  {
+    "id": 1095,
+    "german": "Feineinstelleinrichtung/Nonius; ugs. der Feineinsteller",
+    "english": "Fine adjustment / Vernier"
+  },
+  {
+    "id": 1096,
+    "german": "(Universal-)Messschieber; ugs. die Schieblehre",
+    "english": "(Universal) Vernier caliper"
+  },
+  {
+    "id": 1097,
+    "german": "sehr giftige Stoff",
+    "english": "Very toxic substance"
+  },
+  {
+    "id": 1098,
+    "german": "Schraubstock",
+    "english": "Vice / Bench vice"
+  },
+  {
+    "id": 1099,
+    "german": "Sichtkontrolle; ugs. die Sichtprüfung",
+    "english": "Visual inspection"
+  },
+  {
+    "id": 1100,
+    "german": "Sichtprüfung",
+    "english": "Visual check"
+  },
+  {
+    "id": 1101,
+    "german": "Spannungsmessung",
+    "english": "Voltage measurement"
+  },
+  {
+    "id": 1102,
+    "german": "Spannungsprüfer",
+    "english": "Voltage tester"
+  },
+  {
+    "id": 1103,
+    "german": "Spannungsmessgerät; ugs. das Voltmeter",
+    "english": "Voltmeter"
+  },
+  {
+    "id": 1104,
+    "german": "Mechaniker/-in für Reifen- und Vulkanisationstechnik",
+    "english": "Mechanic for tire and vulcanization technology"
+  },
+  {
+    "id": 1105,
+    "german": "Wartebereich/-zone",
+    "english": "Waiting area / Zone"
+  },
+  {
+    "id": 1106,
+    "german": "Fußgängerweg",
+    "english": "Walkway / Pedestrian path"
+  },
+  {
+    "id": 1107,
+    "german": "Lagerhalle",
+    "english": "Warehouse"
+  },
+  {
+    "id": 1108,
+    "german": "Fachlagerist/-in",
+    "english": "Warehouse specialist / Stock clerk"
+  },
+  {
+    "id": 1109,
+    "german": "Fachkraft für Lagerlogistik",
+    "english": "Specialist for warehouse logistics"
+  },
+  {
+    "id": 1110,
+    "german": "Warnung",
+    "english": "Warning"
+  },
+  {
+    "id": 1111,
+    "german": "(allgemeine) Warnzeichen",
+    "english": "Warning sign"
+  },
+  {
+    "id": 1112,
+    "german": "Gewährleistung",
+    "english": "Warranty / Guarantee (Legal)"
+  },
+  {
+    "id": 1113,
+    "german": "Unterlegscheibe",
+    "english": "Washer"
+  },
+  {
+    "id": 1114,
+    "german": "Waschhalle",
+    "english": "Wash bay / Washing hall"
+  },
+  {
+    "id": 1115,
+    "german": "Waschanlage",
+    "english": "Car wash system"
+  },
+  {
+    "id": 1116,
+    "german": "Waschraum",
+    "english": "Washroom"
+  },
+  {
+    "id": 1117,
+    "german": "Abfall",
+    "english": "Waste"
+  },
+  {
+    "id": 1118,
+    "german": "Entsorgungsnachweis",
+    "english": "Proof of disposal / Waste transfer note"
+  },
+  {
+    "id": 1119,
+    "german": "Abfallvermeidung",
+    "english": "Waste prevention"
+  },
+  {
+    "id": 1120,
+    "german": "Entsorgung",
+    "english": "Disposal / Waste management"
+  },
+  {
+    "id": 1121,
+    "german": "Altglas",
+    "english": "Waste glass"
+  },
+  {
+    "id": 1122,
+    "german": "Abfallgesetz/-wirtschaft",
+    "english": "Waste Management Act"
+  },
+  {
+    "id": 1123,
+    "german": "Altöl",
+    "english": "Waste oil"
+  },
+  {
+    "id": 1124,
+    "german": "Altölverordnung",
+    "english": "Waste Oil Ordinance"
+  },
+  {
+    "id": 1125,
+    "german": "Altpapier",
+    "english": "Waste paper"
+  },
+  {
+    "id": 1126,
+    "german": "Abfallverwertung",
+    "english": "Waste recovery / Recycling"
+  },
+  {
+    "id": 1127,
+    "german": "Mülltrennung",
+    "english": "Waste separation"
+  },
+  {
+    "id": 1128,
+    "german": "Wasser",
+    "english": "Water"
+  },
+  {
+    "id": 1129,
+    "german": "Gewässerschutz",
+    "english": "Water protection"
+  },
+  {
+    "id": 1130,
+    "german": "Wasserpumpenhalter",
+    "english": "Water pump holder"
+  },
+  {
+    "id": 1131,
+    "german": "Wasserpumpenzange",
+    "english": "Water pump pliers"
+  },
+  {
+    "id": 1132,
+    "german": "Handschuh",
+    "english": "Glove"
+  },
+  {
+    "id": 1133,
+    "german": "(Zierleisten-)Keil",
+    "english": "(Trim) Wedge"
+  },
+  {
+    "id": 1134,
+    "german": "Masse; ugs. das Gewicht",
+    "english": "Mass / Weight"
+  },
+  {
+    "id": 1135,
+    "german": "Schweißerschutzbrille; ugs. die Schweißerbrille",
+    "english": "Welding goggles"
+  },
+  {
+    "id": 1136,
+    "german": "Schweiß-Gripzange",
+    "english": "Welding grip pliers / Locking pliers"
+  },
+  {
+    "id": 1137,
+    "german": "Schweißflamme",
+    "english": "Welding flame"
+  },
+  {
+    "id": 1138,
+    "german": "Schweißstromerzeuger; ugs. der Schweißtrafo",
+    "english": "Welding generator / Transformer"
+  },
+  {
+    "id": 1139,
+    "german": "Schweißmaske",
+    "english": "Welding mask / Helmet"
+  },
+  {
+    "id": 1140,
+    "german": "Schweißdüse",
+    "english": "Welding nozzle / Tip"
+  },
+  {
+    "id": 1141,
+    "german": "Schweißbrenner",
+    "english": "Welding torch"
+  },
+  {
+    "id": 1142,
+    "german": "Schweißnaht",
+    "english": "Weld seam"
+  },
+  {
+    "id": 1143,
+    "german": "Nasssauger",
+    "english": "Wet vacuum cleaner"
+  },
+  {
+    "id": 1144,
+    "german": "Fahrwerksvermessung; ugs. die Achsvermessung",
+    "english": "Wheel alignment"
+  },
+  {
+    "id": 1145,
+    "german": "Fahrwerksvermessungsgerät; ugs. das Achsvermessungsgerät",
+    "english": "Wheel aligner"
+  },
+  {
+    "id": 1146,
+    "german": "Rad(aus)wuchtmaschine",
+    "english": "Wheel balancer"
+  },
+  {
+    "id": 1147,
+    "german": "Auswuchtgewicht",
+    "english": "Wheel balance weight"
+  },
+  {
+    "id": 1148,
+    "german": "Auswuchtgewichtzange",
+    "english": "Wheel weight pliers"
+  },
+  {
+    "id": 1149,
+    "german": "Radlager-Werkzeug",
+    "english": "Wheel bearing tool"
+  },
+  {
+    "id": 1150,
+    "german": "Radschutzkappe",
+    "english": "Wheel cover / Hubcap"
+  },
+  {
+    "id": 1151,
+    "german": "Felgenschloss-Werkzeug-Satz",
+    "english": "Wheel lock tool set"
+  },
+  {
+    "id": 1152,
+    "german": "Radkreuz",
+    "english": "4-way rim wrench / Spider wrench"
+  },
+  {
+    "id": 1153,
+    "german": "Reifentransportwagen",
+    "english": "Tire dolly / Cart"
+  },
+  {
+    "id": 1154,
+    "german": "WIG-Verfahren",
+    "english": "TIG welding process"
+  },
+  {
+    "id": 1155,
+    "german": "Druckluftausglaser",
+    "english": "Pneumatic glass cutter"
+  },
+  {
+    "id": 1156,
+    "german": "Windschutzscheibenhalterung",
+    "english": "Windshield holder / Stand"
+  },
+  {
+    "id": 1157,
+    "german": "Flügelmutter",
+    "english": "Wing nut"
+  },
+  {
+    "id": 1158,
+    "german": "Kotflügelschoner",
+    "english": "Fender cover / Wing protector"
+  },
+  {
+    "id": 1159,
+    "german": "Winterjacke",
+    "english": "Winter jacket"
+  },
+  {
+    "id": 1160,
+    "german": "Draht",
+    "english": "Wire"
+  },
+  {
+    "id": 1161,
+    "german": "Drahtbürste",
+    "english": "Wire brush"
+  },
+  {
+    "id": 1162,
+    "german": "Drahtsicherung",
+    "english": "Safety wire / Locking wire"
+  },
+  {
+    "id": 1163,
+    "german": "Abisolierzange; ugs. der Abisolierer",
+    "english": "Wire strippers"
+  },
+  {
+    "id": 1164,
+    "german": "Abzweigverbinder",
+    "english": "Wire tap / Branch connector"
+  },
+  {
+    "id": 1165,
+    "german": "Stromlaufplan; ugs. der Schaltplan",
+    "english": "Wiring diagram"
+  },
+  {
+    "id": 1166,
+    "german": "Abziehhülse; ugs. die Abziehglocke",
+    "english": "Withdrawal sleeve"
+  },
+  {
+    "id": 1167,
+    "german": "(fahrbare) Werkbank",
+    "english": "(Mobile) Workbench"
+  },
+  {
+    "id": 1168,
+    "german": "Arbeitslatzhose",
+    "english": "Bib and brace overalls / Dungarees"
+  },
+  {
+    "id": 1169,
+    "german": "Arbeitsablauf",
+    "english": "Workflow / Work process"
+  },
+  {
+    "id": 1170,
+    "german": "Arbeitshandschuh",
+    "english": "Work glove"
+  },
+  {
+    "id": 1171,
+    "german": "Arbeitsplanung",
+    "english": "Work planning"
+  },
+  {
+    "id": 1172,
+    "german": "Arbeitsjacke",
+    "english": "Work jacket"
+  },
+  {
+    "id": 1173,
+    "german": "(Magnet-)Arbeitsleuchte",
+    "english": "(Magnetic) Work light"
+  },
+  {
+    "id": 1174,
+    "german": "ungelernte Arbeiter/-in",
+    "english": "Unskilled worker / Laborer"
+  },
+  {
+    "id": 1175,
+    "german": "Arbeitsauftrag",
+    "english": "Work order"
+  },
+  {
+    "id": 1176,
+    "german": "Arbeitsplatz",
+    "english": "Workplace / Workstation"
+  },
+  {
+    "id": 1177,
+    "german": "Arbeitsschutz",
+    "english": "Occupational safety"
+  },
+  {
+    "id": 1178,
+    "german": "Arbeitshemd",
+    "english": "Work shirt"
+  },
+  {
+    "id": 1179,
+    "german": "Werkstatt",
+    "english": "Workshop"
+  },
+  {
+    "id": 1180,
+    "german": "(hydraulische) Werkstattkran",
+    "english": "(Hydraulic) Workshop crane / Engine hoist"
+  },
+  {
+    "id": 1181,
+    "german": "Werkstattleuchte",
+    "english": "Workshop lamp"
+  },
+  {
+    "id": 1182,
+    "german": "Werkstattpresse",
+    "english": "Workshop press"
+  },
+  {
+    "id": 1183,
+    "german": "Arbeitsshorts",
+    "english": "Work shorts"
+  },
+  {
+    "id": 1184,
+    "german": "Arbeitshose",
+    "english": "Work trousers"
+  },
+  {
+    "id": 1185,
+    "german": "Arbeitsweste",
+    "english": "Work vest"
+  },
+  {
+    "id": 1186,
+    "german": "Arbeitskleidung",
+    "english": "Workwear"
+  },
+  {
+    "id": 1187,
+    "german": "Wunde",
+    "english": "Wound"
+  },
+  {
+    "id": 1188,
+    "german": "Schrauben-/Steckschlüssel",
+    "english": "Wrench / Socket wrench"
+  }
+]
