@@ -1,0 +1,25 @@
+{
+    "llm_engine_url": "http://localhost:11434/api/generate",
+    "global_settings": {
+        "data_folder": "data",
+        "result_folder": "results"
+    },
+    "models": {
+        "1": {
+            "id": "english_expert",
+            "name": "German -> English (Vocational Expert)",
+            "base_model": "qwen2.5:14b",
+            "file_suffix": "_en",
+            "prompt_file": "prompts/english_expert.txt",
+            "example_file": "examples/english_examples.txt"
+        },
+        "2": {
+            "id": "urdu_expert",
+            "name": "German -> Urdu (Vocational Expert)",
+            "base_model": "qwen2.5:14b",
+            "file_suffix": "_ur",
+            "prompt_file": "prompts/urdu_expert.txt",
+            "example_file": "examples/urdu_examples.txt"
+        }
+    }
+}
